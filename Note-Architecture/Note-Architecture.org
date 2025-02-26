@@ -1,0 +1,41 @@
+:ATTRIBUTES:
+:Status: draft
+:Last_modified: <2025-02-25 Tue>
+:END:
+
+#+TAGS: Architecture Org
+
+* Note Architecture
+This document describes my methodology for writing notes/blog posts for nomolabs.net
+
+It isn't what I would describe as a perfect method, and is rather more experimental. I think this just provides a good way of converting regular notes that I can refer to later in a form that is easy for me to use and then publish.
+
+** Org mode
+The heart of how this is all accomplished is through something called "org mode", it is a document format that is pretty entertwined with Emacs, but it can do some pretty remarkable things. It can basically act as a jupyter notebook but with any language you want, a spreadsheet, and as an orgnizational tool
+*** TODO Create a orgmode sales pitch document and link it here
+
+** Organization method
+I have decided that I want to follow a "tag" method. This takes off the mental load of trying to organize everything in lets just say a hiearchy, as well as make it so I can find multiple documents that share the same type of topic. Though there might be some problems with this approach
+*** Potential problems
+**** Improperly set tags
+In the case where there is a tag that isn't set, it would be difficult to find out that there is something missing unless you are explicity trying to look for a document and cannot find it.
+**** Tag updating
+If enough new documents come in, such that it warrants adding new tags to better categorize things, going back to update older documents becomes a problem, and will scale really poorly if there are many documents.
+**** Tag granularity
+In that same sort of line above, if there is a tag such as "Architecture" but suddenly I start writing things on building architecture, that is going to conflict with the current tag, and everything that matches that must be updated. I had some thoughts with subtags, but I do want to keep things simple.
+*** Solutions
+**** TODO Link "Document clustering and organization using LLMs"
+Automatic labelling of documents and generation of new tags once a threshold is met.
+** Folder structure
+Each post/page on the website will correspond with a folder in this repository. This adds a bit more organization of anything else that matches within the web page. For an example, I have `Note-Architect-diagram.txt` here, which is just a plantUML doc producing some diagrams later
+*** Potential problems
+Whilst this does make a very nice organization structure, once there are tons of folders here, it might just become a lot of visual clutter (at least when I open the project). I haven't exactly thought of solutions for it just yet, but will cross that bridge when I get there.
+
+** Document structure
+Each document contains a properties box(?) at the top of the file that provides some extra information, mainly just the status and last modified date. The most important being the :Status: which can either be "draft" or "published" which lets my server know what to do with it.
+
+** How it all gets to nomolabs.net
+
+*** General Architecture
+[[./sources/Note-Architect-diagram.png]]
+*** Document Processing
