@@ -1,2 +1,2 @@
 * Public notes
-this is a repository that contains all of the notes/blogs that point to nomolabs.net
+this is a repository that contains all my public notes, that should be published to nomolabs.net
