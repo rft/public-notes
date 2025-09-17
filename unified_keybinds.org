@@ -1,0 +1,68 @@
+#+TITLE: Unified Keybinds
+#+DESCRIPTION: File that describes keybinds that should be similar across programs (mainly just text editors and window managers), goal should be ergonomically comfortable across my ortho split and standard keyboard and easy to remember.
+
+
+* Text Editors
+** General
+- SPC f s : save file
+- SPC f t : Open up file tree
+- SPC o t : Open terminal
+- Ctrl + shift + f : Search whole project for string
+** Windows
+- SPC w / : window split vertically
+- SPC w - : window split horizontally
+- SPC w c : close window
+- SPC w w : switch windows
+- SPC w l : Move to right window
+- SPC w h : Move to left window
+- SPC w j : Move to lower window
+- SPC w k : Move to upper window
+** Buffers
+- SPC b b : open buffer search to select new buffer (workspace buffer)
+- SPC b B : open all buffer search to select new buffer
+- SPC , : open buffer search to select new buffer
+- SPC shift + , : open all buffer search to select new buffer
+- SPC b c : Close buffer
+- SPC b s : Scratch buffer
+- SPC b u : Reopen last buffer
+- SPC b l : Move buffer to right window
+- SPC b h : Move buffer to left window
+- SPC b j : Move buffer to lower window
+- SPC b k : Move buffer to upper window
+** Text
+- Alt + UP/k : Move line up
+- Alt + Down/j : Move line down
+- Ctrl + Alt + UP/k : Multicursor add line up
+- Ctrl + Alt + Down/j : Multicursor add line down
+** LSP
+- SPC ; : Comment out line(s)
+- SPC c c : compile
+- SPC c d : jump to var/func definition
+- SPC c D see references to var/func
+- SPC c f : format region
+- SPC c k : jump to documentation
+- SPC c e : evaluate current buffer or region
+- SPC c r : rename all references and definitions for var/func at point in all project files
+- SPC c s : send to repl
+- SPC c x : LSP diagnostics
+- SPC c t : Find type definition
+- SPC c o : Organize imports
+- SPC c w : remove trailing whitespace
+- SPC c W : remove trailing newlines
+** Jump
+- SPC j c : Jump to previous change
+- SPC j C : Jump to next change
+- SPC j l : Jump to line
+- SPC j w : Jump to word
+** Git
+- SPC g g : Open magit/neogit
+
+
+* Window Managers
+** General
+- Mod + Shift + C : Kill program
+** Program Launcher (Rofi/Wofi)
+- Mod + Space
+** Layout changes
+- Mod + , : Previous layout
+- Mod + . : Next layout
