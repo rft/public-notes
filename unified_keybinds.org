@@ -17,6 +17,10 @@
 - SPC w h : Move to left window
 - SPC w j : Move to lower window
 - SPC w k : Move to upper window
+- SPC w L : Move window to right
+- SPC w H : Move window to left
+- SPC w J : Move window to lower
+- SPC w K : Move window to upper
 ** Buffers
 - SPC b b : open buffer search to select new buffer (workspace buffer)
 - SPC b B : open all buffer search to select new buffer
