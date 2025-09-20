@@ -45,7 +45,6 @@
 - SPC c D see references to var/func
 - SPC c f : format region
 - SPC c k : jump to documentation
-- SPC c e : evaluate current buffer or region
 - SPC c r : rename all references and definitions for var/func at point in all project files
 - SPC c s : send to repl
 - SPC c x : LSP diagnostics
@@ -53,6 +52,15 @@
 - SPC c o : Organize imports
 - SPC c w : remove trailing whitespace
 - SPC c W : remove trailing newlines
+- SPC c e : next error
+- SPC c E : previous error
+** Errors
+- SPC e e : Show errors
+- SPC e f : Fix error
+- SPC e l : List errors
+- SPC e n : Next Error
+- SPC e N : Previou error
+- SPC e p : Previou error
 ** Jump
 - SPC j c : Jump to previous change
 - SPC j C : Jump to next change
