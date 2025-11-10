@@ -1,0 +1,1 @@
+This repo contains notes that are used in nomolabs.net and is contained in an obsidian.md vault that auto syncs with git
