@@ -1,6 +1,6 @@
 # Lab/Workshop 
 
-#index #curation
+#Index #Curation
 
 # Cleaning 
 
@@ -13,6 +13,7 @@
 # Measuring
 
 # Machines 
-- [[Ptouch-P750W]]
+- [[Bambu lab H2D]]
+- [[Brother Ptouch-P750W]]
 - 
 
