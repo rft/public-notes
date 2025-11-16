@@ -12,3 +12,7 @@
 
 # Measuring
 
+# Machines 
+- [[Ptouch-P750W]]
+- 
+
