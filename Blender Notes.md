@@ -8,7 +8,7 @@
 `alt+g`: sets to global ground (not actually what it does but need to change)
 
 ## Move Panel 
-`n`: 
+`n`: panel appears in the upper right 
 ## Scale
 `s` : 
 - Press `Shift` to be more precise on moving 
