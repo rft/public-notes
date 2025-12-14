@@ -1,5 +1,5 @@
 # CLI 
-- `explorer.exe .` in a 
+- `explorer.exe .` in a command prompt or powershell window will open up the file explorer in that directory 
 
 # File explorer 
-- in the breadcrumbs bar if you click on in such that the text is highlightable you can put commands inside of it
+- in the breadcrumbs bar if you click on in such that the text is highlightable you can put commands inside of it, most useful case is opening up a terminal in that directory by doing `cmd` or `powershell`
