@@ -7,6 +7,14 @@ If the addition adds up into the next digit carry over the value
 $$37 \cdot 11 = 407$$
 $$ 38 \cdot 11 = 418 $$
 
-# Squares 
+# Squaring numbers
+You can quickly square any number
+
+for example 
+
+$$ 98^2 = 100$$
+
+
+A more formal definition for nerds 
 ## Anything that ends in 5 
 
