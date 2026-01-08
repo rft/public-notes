@@ -12,9 +12,12 @@ You can quickly square any number
 
 for example 
 
-$$ 98^2 = 100$$
 
 
-A more formal definition for nerds 
-## Anything that ends in 5 
 
+
+## Multiplying two two-digit numbers 
+
+
+
+### A more formal definition for nerds 
