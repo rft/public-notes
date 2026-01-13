@@ -17,10 +17,20 @@ My goal for backpacking is to create a very "mentally" minimal setup, not necess
 # Cooking and Food things 
 
 ## Bear can - Bearikade Weekender 
+## Spoon - Toaks Titanium Spoon 
 
 
 # Small things 
+## Trowel - 
+## Bidet - 
+
+## Bug net 
 
 # Consumables 
 
 ## Sunscreen Stick - Skin 1004 Madagascar Centella Hyalu Cica Silky-Fit Sun Stick
+
+## First Aid 
+- Leukotape - 
+- 
+
