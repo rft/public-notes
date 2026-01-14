@@ -1,6 +1,6 @@
 
-My goal for backpacking is to create a very "mentally" minimal setup, not necessarily "ultralight" per say (although traveling light is a big part of it). But rather stuff that is just easy, to work with, versatile, and things with a small volume. 
-# Sleeping things 
+My goal for backpacking is to create a "mentally" minimal setup, not necessarily "ultralight" (although traveling light is a big part of it).  Stuff that is easy, versatile, and small volume. 
+# Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
 
 | Temperature Rating |     |
@@ -14,13 +14,13 @@ My goal for backpacking is to create a very "mentally" minimal setup, not necess
 # Tent things 
 
 
-# Cooking and Food things 
+# Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
 ## Spoon - Toaks Titanium Spoon 
 
 
-# Small things 
+# Small items 
 ## Trowel - 
 ## Bidet - 
 
