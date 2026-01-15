@@ -11,9 +11,11 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 |                    |     |
 ## Sleeping Pad - Thermarest 
 
-## Pillow
+## Pillow - Nemo Fillo Ultralight 
 
 # Tent things 
+
+## Tent - Durston X-Mid 2
 
 
 # Cooking and Food 
