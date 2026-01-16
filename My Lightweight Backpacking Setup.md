@@ -7,17 +7,18 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 # Summary 
 
 
-| **Item**         | **Cost** | **Weight** | **Link** |
-| ---------------- | -------- | ---------- | -------- |
-| Nunatak Sastrugi | $485     |            |          |
-| Thermarest       |          |            |          |
-| Nemo Fillo Elite |          |            |          |
-|                  |          |            |          |
-|                  |          |            |          |
-|                  |          |            |          |
-|                  |          |            |          |
-|                  |          |            |          |
-|                  |          |            |          |
+| **Item**                                 | **Cost** | **Weight** | **Link** |
+| ---------------------------------------- | -------- | ---------- | -------- |
+| Nunatak Sastrugi                         | $485     |            |          |
+| Thermarest                               |          |            |          |
+| Nemo Fillo Elite                         |          |            |          |
+| Bearikade Weekender                      |          |            |          |
+| Firemaple Petrel Stove G3                |          |            |          |
+| Firemaple Greenpeak camping stove burner |          |            |          |
+| Toaks Titanium Spoon                     |          |            |          |
+| MSR Guardian                             |          |            |          |
+| M!GO Mazama Water Bottle                 |          |            |          |
+|                                          |          |            |          |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
