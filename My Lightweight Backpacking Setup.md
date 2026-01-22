@@ -42,7 +42,9 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
-Not necessarily the easiest, but after looking at reports from <> about the BV line of bear cans, opted for this
+Not necessarily the easiest, but after looking at reports from <> and some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 about BV bear cans and ursacks 
+
+This can however is not IGBC certified, so it cannot be brought on certain trails. 
 
 TODO: Verify
 Lightest bear can for it's size, made from carbon fiber, and is allowed on <> but not certified for <> 
