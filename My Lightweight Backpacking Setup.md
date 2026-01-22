@@ -42,12 +42,18 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
-Not necessarily the easiest, but after looking at reports from <> and some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 about BV bear cans and ursacks 
+Kind of expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 about BV bear cans and ursacks I am more inclined to use this (could be a biased sample size though since the bearikade is a quite a bit more costly than the other options)
 
 This can however is not IGBC certified, so it cannot be brought on certain trails. 
 
-TODO: Verify
-Lightest bear can for it's size, made from carbon fiber, and is allowed on <> but not certified for <> 
+Lightest bear can for it's size, made from carbon fiber
+
+Bear cans compared 
+https://imgur.com/a/bear-canister-efficiency-JRXoDx8
+
+I also use wallaby mylar bags to block out any scents, just so there's less of a reason to find the actual can. 
+
+
 #### Mods
 - Added reflective tape along circumference of container. Helps to spot in the morning when using headlamp. 
 - Washer keychain loop attached to bag. 
