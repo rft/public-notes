@@ -33,9 +33,10 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 ## Pillow - Nemo Fillo Ultralight 
 
-# Tent things 
-
 ## Tent - Durston X-Mid 2
+
+#### Mods
+
 
 
 # Cooking and Food 
@@ -56,13 +57,14 @@ It also can double as a chair
 
 # Small items 
 ## Trowel - 
-## Bidet - 
+## Bidet - BoglerCo Trowel 
+Very lightweight Trowel, nice to use because of it's serrated edges and plastic end to make it easier to push 
 
 ## Tent Stakes - 
 #### Mods
 - Use a PVC pipe tube end to help push stakes into the ground. 
 
-## Bug net 
+## Bug net - Sea to Summit 
 
 # Consumables 
 
