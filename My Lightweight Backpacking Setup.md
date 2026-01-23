@@ -38,7 +38,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 #### Mods
 
 
-
+## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
