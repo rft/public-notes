@@ -80,9 +80,10 @@ It also can double as a chair
 
 # Small items 
 ## Trowel - 
-## Bidet - BoglerCo Trowel 
+## Trowel - BoglerCo Trowel 
 Very lightweight Trowel, nice to use because of it's serrated edges and plastic end to make it easier to push 
 
+## Bidet
 ## Tent Stakes - 
 #### Mods
 - Use a PVC pipe tube end to help push stakes into the ground. 
