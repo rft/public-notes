@@ -6,19 +6,30 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 # Summary 
 
+**Total Weight: <>**
+**Total Cost: **
 
-| **Item**                                 | **Cost** | **Weight** | **Link** |
-| ---------------------------------------- | -------- | ---------- | -------- |
-| Nunatak Sastrugi                         | $485     |            |          |
-| Thermarest                               |          |            |          |
-| Nemo Fillo Elite                         |          |            |          |
-| Bearikade Weekender                      |          |            |          |
-| Firemaple Petrel Stove G3                |          |            |          |
-| Firemaple Greenpeak camping stove burner |          |            |          |
-| Toaks Titanium Spoon                     |          |            |          |
-| MSR Guardian                             |          |            |          |
-| M!GO Mazama Water Bottle                 |          |            |          |
-|                                          |          |            |          |
+| **Item**                                                    | **Cost** | **Weight** | **Link** |
+| ----------------------------------------------------------- | -------- | ---------- | -------- |
+| Nunatak Sastrugi                                            | $485     |            |          |
+| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
+| Nemo Fillo Elite                                            |          | 53g        |          |
+| Bearikade Weekender                                         |          |            |          |
+| Firemaple Petrel Stove G3                                   |          | 178g       |          |
+| Firemaple Greenpeak camping stove burner                    |          | 85g        |          |
+| Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |          |
+| Toaks Titanium Spoon                                        |          | 13g        |          |
+| MSR Guardian                                                |          |            |          |
+| M!GO Mazama Water Bottle                                    |          | 132g       |          |
+| Flextail Zero Pump                                          |          | 96g        |          |
+| Naturehike quick dry Towel                                  |          | 30g        |          |
+| Durston Xmid 2                                              |          |            |          |
+| Sea to Summit ultra fine mesh mosquito net                  |          | 23g        |          |
+| BoglerCo Ultralight Trowel                                  |          | 14g        |          |
+| sunscreen stick - skin 1004                                 |          |            |          |
+| Leukotape                                                   |          |            |          |
+| Datalogger                                                  |          |            |          |
+|                                                             |          |            |          |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
