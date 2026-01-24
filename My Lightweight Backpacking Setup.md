@@ -29,6 +29,10 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | sunscreen stick - skin 1004                                 |          |            |          |
 | Leukotape                                                   |          |            |          |
 | Datalogger                                                  |          |            |          |
+| Cascade Mountain Carbon Fiber Trekking Poles                |          |            |          |
+| MSR Guardian                                                |          |            |          |
+| Zenbivy packliner                                           |          |            |          |
+| Bearikade Weekender                                         |          |            |          |
 |                                                             |          |            |          |
 
 # Sleeping 
