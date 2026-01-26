@@ -14,7 +14,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Nunatak Sastrugi                                            | $485     |            |          |
 | Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
 | Nemo Fillo Elite                                            |          | 53g        |          |
-| Bearikade Weekender                                         |          |            |          |
+| Bearikade Weekender                                         |          | 880g       |          |
 | Firemaple Petrel Stove G3                                   |          | 178g       |          |
 | Firemaple Greenpeak camping stove burner                    |          | 85g        |          |
 | Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |          |
@@ -30,9 +30,9 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Leukotape                                                   |          |            |          |
 | Datalogger                                                  |          |            |          |
 | Cascade Mountain Carbon Fiber Trekking Poles                |          |            |          |
-| MSR Guardian                                                |          |            |          |
 | Zenbivy packliner                                           |          |            |          |
-| Bearikade Weekender                                         |          |            |          |
+|                                                             |          |            |          |
+|                                                             |          |            |          |
 |                                                             |          |            |          |
 
 # Sleeping 
