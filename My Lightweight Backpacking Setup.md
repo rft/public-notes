@@ -12,6 +12,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | **Item**                                                    | **Cost** | **Weight** | **Link** |
 | ----------------------------------------------------------- | -------- | ---------- | -------- |
 | Nunatak Sastrugi                                            | $485     |            |          |
+| Nunatak Bears Ears                                          |          |            |          |
 | Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
 | Nemo Fillo Elite                                            |          | 53g        |          |
 | Bearikade Weekender                                         |          | 880g       |          |
@@ -23,13 +24,13 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | M!GO Mazama Water Bottle                                    |          | 132g       |          |
 | Flextail Zero Pump                                          |          | 96g        |          |
 | Naturehike quick dry Towel                                  |          | 30g        |          |
-| Durston Xmid 2                                              |          |            |          |
+| Durston Xmid 2                                              |          | 880g       |          |
 | Sea to Summit ultra fine mesh mosquito net                  |          | 23g        |          |
 | BoglerCo Ultralight Trowel                                  |          | 14g        |          |
 | sunscreen stick - skin 1004                                 |          |            |          |
 | Leukotape                                                   |          |            |          |
 | Datalogger                                                  |          |            |          |
-| Cascade Mountain Carbon Fiber Trekking Poles                |          |            |          |
+| Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |          |
 | Zenbivy packliner                                           |          |            |          |
 |                                                             |          |            |          |
 |                                                             |          |            |          |
