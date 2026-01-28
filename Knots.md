@@ -1,4 +1,4 @@
 Visit: https://www.animatedknots.com/
 
 [[Ian's Knot]] - Shoelace knot, but you can tie this way faster 
-[[Bowline Knot]] - Useful knot for tying a loop around a rod or
+[[Bowline Knot]] - Knot for tying a fixed loop to the end of a rope, useful for tying around any cylindrical shape 
