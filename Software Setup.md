@@ -1,5 +1,3 @@
-# Software Setup
-
 
 [[Linux_Setup]]
 [[Windows Setup]]
