@@ -10,3 +10,9 @@
 # Electronics
 - Skidl 
 - 
+
+# Calculator 
+- Scipy
+- Sympy 
+- z3 
+- (compare between the logical programming packages )
