@@ -11,7 +11,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 | **Item**                                                    | **Cost** | **Weight** | **Link** |
 | ----------------------------------------------------------- | -------- | ---------- | -------- |
-| Nunatak Sastrugi                                            | $485     |            |          |
+| Nunatak Sastrugi                                            | $485     | 729g       |          |
 | Nunatak Bears Ears                                          |          |            |          |
 | Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
 | Nemo Fillo Elite                                            |          | 53g        |          |
@@ -83,11 +83,14 @@ It also can double as a chair
 
 
 # Small items 
-## Trowel - 
+
 ## Trowel - BoglerCo Trowel 
 Very lightweight Trowel, nice to use because of it's serrated edges and plastic end to make it easier to push 
 
-## Bidet
+## Bidet - Holey Hiker / GenieBidet 
+Necessity 
+There are two options here
+
 ## Tent Stakes - 
 #### Mods
 - Use a PVC pipe tube end to help push stakes into the ground. 
