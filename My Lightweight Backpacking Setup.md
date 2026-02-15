@@ -32,7 +32,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Datalogger                                                  |          |            |          |
 | Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |          |
 | Zenbivy packliner                                           |          |            |          |
-|                                                             |          |            |          |
+| Xmid 2                                                      |          |            |          |
 |                                                             |          |            |          |
 |                                                             |          |            |          |
 
