@@ -31,10 +31,11 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Zenbivy packliner                                           |          |            |          |
 | Xmid 2                                                      |          | 965g       |          |
 | Xowool Toe Sock Size 2 (x3)                                 |          |            |          |
-| Toothpaste Tablets Huppy                                    |          |            |          |
-| Merino MM knife                                             |          |            |          |
-| Ultralite Sack pouch (5"x9.5")                              |          |            |          |
-|                                                             |          |            |          |
+| Toothpaste Tablets Huppy                                    |          | 48g        |          |
+| Merino MM knife                                             |          | 45g        |          |
+| Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |          |
+| Firebiner                                                   |          | 31g        |          |
+| Summit Suds Powdered Soap Pika outdoors (1oz)               |          | 40g        |          |
 |                                                             |          |            |          |
 |                                                             |          |            |          |
 | **Total**                                                   |          |            |          |
