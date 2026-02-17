@@ -6,9 +6,6 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 # Summary 
 
-**Total Weight: <>**
-**Total Cost: **
-
 | **Item**                                                    | **Cost** | **Weight** | **Link** |
 | ----------------------------------------------------------- | -------- | ---------- | -------- |
 | Nunatak Sastrugi                                            | $485     | 729g       |          |
@@ -20,7 +17,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Firemaple Greenpeak camping stove burner                    |          | 85g        |          |
 | Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |          |
 | Toaks Titanium Spoon                                        |          | 13g        |          |
-| MSR Guardian                                                |          |            |          |
+| Sawyer Mini Filter + Cnoc Bag                               |          |            |          |
 | M!GO Mazama Water Bottle                                    |          | 132g       |          |
 | Flextail Zero Pump                                          |          | 96g        |          |
 | Naturehike quick dry Towel                                  |          | 30g        |          |
@@ -32,9 +29,15 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Datalogger                                                  |          |            |          |
 | Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |          |
 | Zenbivy packliner                                           |          |            |          |
-| Xmid 2                                                      |          |            |          |
+| Xmid 2                                                      |          | 965g       |          |
+| Xowool Toe Sock Size 2 (x3)                                 |          |            |          |
+| Toothpaste Tablets Huppy                                    |          |            |          |
+| Merino MM knife                                             |          |            |          |
+| Ultralite Sack pouch (5"x9.5")                              |          |            |          |
 |                                                             |          |            |          |
 |                                                             |          |            |          |
+|                                                             |          |            |          |
+| **Total**                                                   |          |            |          |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
