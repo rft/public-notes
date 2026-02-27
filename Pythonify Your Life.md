@@ -5,6 +5,7 @@
 
 # CAD
 - cadquery 
+	- cq-kit
 - build123d
 
 # Electronics
@@ -16,3 +17,18 @@
 - Sympy 
 - z3 
 - (compare between the logical programming packages )
+- Seaborn 
+- 
+
+# Notebook
+- Jupyter
+- Marimo
+
+# Automation 
+- Beatuifulsoup4
+- Selenium 
+- 
+# Other cool things
+- Isobar
+- PySDR
+- 
