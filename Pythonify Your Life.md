@@ -32,3 +32,6 @@
 - Isobar
 - PySDR
 - Wat
+
+# Default modules 
+https://www.pythonmorsels.com/cli-tools/
