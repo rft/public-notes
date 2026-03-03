@@ -1,7 +1,6 @@
 
-# Useful Tools
-
 # Xonsh
+Terminal built around python 
 
 # CAD
 - cadquery 
