@@ -10,7 +10,6 @@
 
 # Electronics
 - Skidl 
-- 
 
 # Calculator 
 - Scipy
@@ -18,6 +17,9 @@
 - z3 
 - (compare between the logical programming packages )
 - Seaborn 
+- jax 
+- ortools
+- matplotlib
 - 
 
 # Notebook
@@ -27,8 +29,10 @@
 # Automation 
 - Beatuifulsoup4
 - Selenium 
-- 
-# Other cool things
+
+# Other useful tools 
+- qrcode
+- requests 
 - Isobar
 - PySDR
 - Wat
