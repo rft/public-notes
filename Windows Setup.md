@@ -144,6 +144,8 @@ Invoke-Expression (& {
 })
 ```
 
+### Starting directory 
+%USERPROFILE%
 
 # Settings to switch 
 
