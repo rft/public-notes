@@ -1,3 +1,3 @@
 #incomplete 
-# Cooking
+
 [[Lazy Cooking]]

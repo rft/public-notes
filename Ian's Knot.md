@@ -1,6 +1,4 @@
 #life 
-
-# Ian's Knot
 Just a quick way of tying a knot 
 
 # Video

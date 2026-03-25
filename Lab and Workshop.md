@@ -1,7 +1,4 @@
-#incomplete 
-# Lab/Workshop 
-
-#Index #Curation
+#incomplete #Index #Curation
 
 # Cleaning 
 
