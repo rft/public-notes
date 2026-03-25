@@ -1,4 +1,5 @@
 #incomplete 
+# Blender Notes
 # Basics
 ## Move 
 `g` : sets whatever object that is selected into a moveable "state" that follows the cursor 
