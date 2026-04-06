@@ -1,5 +1,13 @@
 #lists
 
+Windows is what I typically just use for gaming and some general stuff, only one of my computers actually runs windows, definitely recommend setting up WSL for it
+
+# WSL 
+
+Since I run NixOS I use https://github.com/nix-community/NixOS-WSL
+
+
+
 # Windows Software
 - Powershell 
 	- Psreadline
