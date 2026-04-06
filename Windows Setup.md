@@ -1,11 +1,11 @@
-#lists
+#setup #windows 
 
 Windows is what I typically just use for gaming and some general stuff, only one of my computers actually runs windows, definitely recommend setting up WSL for it
 
 --- 
 # WSL 
 
-Since I run NixOS I use https://github.com/nix-community/NixOS-WSL
+Since I run [[NixOS]] I use https://github.com/nix-community/NixOS-WSL
 
 Following which I setup an SSH key and clone this [repo](https://github.com/rft/nix-config) (my nix config)
 `git clone git@github.com:rft/nix-config.git`
@@ -37,6 +37,16 @@ after it has been cloned I run `sudo nixos-rebuild switch --flake .#mistletoe`
 - netbird
 
 ### Powershell
+If you want to keep your sanity on windows use powershell, makes you feel more at home if you are used to bash, no longer will you type "ls" and be rejected by windows for not typing "dir" instead
+
+In some ways it's actually better than bash, since it lets you move objects down the pipeline, but given the option I am usually in WSL instead, still though it's not too bad, and becomes really nice with the extensions listed later below. 
+
+Powershell is usually installed by default, but with whatever version on windows it can be quite old, so I would suggest you get the latest elsewhere. 
+It should be available via winget or on the appstore 
+
+`winget install -e --id Microsoft.PowerShell`
+
+### Everything 
 
 
 # Quick install via [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) 

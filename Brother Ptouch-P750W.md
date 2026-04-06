@@ -1,4 +1,4 @@
-#incomplete 
+#incomplete #Lab 
 # Manual 
 https://support.brother.com/g/b/manualtop.aspx?c=us&lang=en&prod=p750weus
 # Software 

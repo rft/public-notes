@@ -1,4 +1,4 @@
-#incomplete 
+#incomplete #windows 
 # CLI 
 - `explorer.exe .` in a command prompt or powershell window will open up the file explorer in that directory 
 
