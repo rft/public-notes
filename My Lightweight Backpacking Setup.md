@@ -1,3 +1,4 @@
+#incomplete 
 
 My goal for backpacking is to create a "mentally" minimal setup, not necessarily "ultralight" (although traveling light is a big part of it).  Stuff that is easy, versatile, and small volume.\
 
