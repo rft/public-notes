@@ -126,22 +126,31 @@ There are a few things I get from the Appstore, mainly for convenience
 
 ### Hide other stuff from terminal
 Profiles > Azure/Command promt, > Hide porfile form dropdown 
-#### Oh My Posh 
+## Oh My Posh 
+A bit of software that makes your terminal look nice
+![[Pasted image 20260406135911.png]]
+
 `winget install JanDeDobbeleer.OhMyPosh --source winget --scope user --force`
 or get it on the windows app store 
 https://ohmyposh.dev/docs/installation/windows
 
-### Create powershell profile 
-if using a newer version of powershell it will ask if you want it made if you do `notepad $PROFILE`
-otherwise (but more than liekly it means your version is older)
-`if (!(Test-Path -Path $PROFILE)) { New-Item -ItemType File -Path $PROFILE -Force }`
-
-
 ### Add required stuff to path 
-`edit environment variables for account` 
+If you downloaded via the app store you do not need to follow these steps
 
-click on `PATH` and add `C:\Users\astro\AppData\Local\Programs\oh-my-posh\bin\`
-for themes create a new variable called `POSH_THEMES_PATH` and add 
+1. search environment variables on windows search and click on `edit environment variables for account` 
+2. from there click on `Environment Variables...`
+3. from there click on `PATH` and add `C:\Users\<youruser>\AppData\Local\Programs\oh-my-posh\bin\`
+4. for themes create a new variable called `POSH_THEMES_PATH` and add `C:\Users\<youruser>\AppData\Local\Programs\oh-my-posh\themes\`
+
+### Create powershell profile 
+if using a newer version of powershell it will ask if you want a profile made.
+if you do run `notepad $PROFILE`
+
+if it fails (likely means your powershell version is old) you can run 
+`if (!(Test-Path -Path $PROFILE)) { New-Item -ItemType File -Path $PROFILE -Force }`
+but I would recommend you update instead! 
+
+
 
 
 ### Add required software
