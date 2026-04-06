@@ -6,6 +6,10 @@ Windows is what I typically just use for gaming and some general stuff, only one
 
 Since I run NixOS I use https://github.com/nix-community/NixOS-WSL
 
+Following which I setup an SSH key and clone this repo 
+`git clone git@github.com:rft/nix-config.git`
+
+`git` will likely be missing from a blank NixOS install, you can add git temporarily with nix quite easily with `nix shell nixpkgs#git`
 
 
 # Windows Software
