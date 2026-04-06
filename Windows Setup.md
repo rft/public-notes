@@ -2,26 +2,25 @@
 
 Windows is what I typically just use for gaming and some general stuff, only one of my computers actually runs windows, definitely recommend setting up WSL for it
 
+--- 
 # WSL 
 
 Since I run NixOS I use https://github.com/nix-community/NixOS-WSL
 
-Following which I setup an SSH key and clone this repo 
+Following which I setup an SSH key and clone this [repo](https://github.com/rft/nix-config) (my nix config)
 `git clone git@github.com:rft/nix-config.git`
 
-`git` will likely be missing from a blank NixOS install, you can add git temporarily with nix quite easily with `nix shell nixpkgs#git`
+`git` will likely be missing from a fresh NixOS install, you can add git temporarily with nix quite easily with `nix shell nixpkgs#git`
+
+after it has been cloned I run `sudo nixos-rebuild switch --flake .#mistletoe`
+"mistletoe" being what I defined my WSL host as.
 
 
+--- 
 # Windows Software
+
+## Software list 
 - Powershell 
-	- Psreadline
-	- Zoxide
-	- oh my posh
-	- alias pwsh=“/mnt/c/Program\ Files/Powershell/7/pwsh.exe” 
-	- alias vi=nvim
-	- alias vim=nvim
-	- alias cd=z
-- WSL
 - Everything 
 - windirstat
 - Executor 
@@ -35,7 +34,12 @@ Following which I setup an SSH key and clone this repo
 - Autohotkey
 - mpv.net 
 - lossless cut
+- netbird
 
+### Powershell
+
+
+# Quick install via [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) 
 ```
 winget install --id=Obsidian.Obsidian  -e
 winget install --id=Valve.Steam  -e
@@ -83,7 +87,7 @@ There are a few things I get from the Appstore, mainly for convenience
 - Wolfram Alpha
 - Devtoys
 
-
+--- 
 # Settings 
 
 ## Disable suggest snap when snapping window to side
@@ -96,13 +100,17 @@ There are a few things I get from the Appstore, mainly for convenience
 - Personalize your lock screen > picture 
 
 ## Enable Hibernation 
-- Open the old control panel (Might need to search )
+- Open the old control panel (Might need to search)
 - Power Options > Choose what the power buttons do > Check hibernation 
-
-# Customization
-
-## Terminal
-
+--- 
+# Terminal 
+	- Psreadline
+	- Zoxide
+	- oh my posh
+	- alias pwsh=“/mnt/c/Program\ Files/Powershell/7/pwsh.exe” 
+	- alias vi=nvim
+	- alias vim=nvim
+	- alias cd=z
 ## Make sure version is > 6 
 `$PSVersionTable.PSVersion` to check 
 
@@ -160,6 +168,7 @@ Invoke-Expression (& {
 ### Starting directory 
 %USERPROFILE%
 
+--- 
 # Settings to switch 
 
 ## System > Multitasking 
