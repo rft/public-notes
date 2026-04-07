@@ -48,6 +48,11 @@ It should be available via winget or on the appstore
 
 ### Everything 
 
+### Executor 
+- Might be marked as a virus (allow through defender)
+- make sure to mark launch on startup 
+- Change keybind to win + alt + A 
+
 
 # Quick install via [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/) 
 ```
@@ -112,7 +117,11 @@ There are a few things I get from the Appstore, mainly for convenience
 ## Enable Hibernation 
 - Open the old control panel (Might need to search)
 - Power Options > Choose what the power buttons do > Check hibernation 
---- 
+
+## System > Multitasking 
+- Click dropdown arrow and uncheck "When I snap a window, suggest what I can snap next to it"
+
+
 # Terminal 
 	- Psreadline
 	- Zoxide
@@ -121,8 +130,11 @@ There are a few things I get from the Appstore, mainly for convenience
 	- alias vi=nvim
 	- alias vim=nvim
 	- alias cd=z
-## Make sure version is > 6 
-`$PSVersionTable.PSVersion` to check 
+
+
+```
+⚠️ **Warning**: Make sure powershell version is > 6 `$PSVersionTable.PSVersion` to check 
+```
 
 ### Hide other stuff from terminal
 Profiles > Azure/Command promt, > Hide porfile form dropdown 
@@ -187,21 +199,3 @@ Invoke-Expression (& {
 ### Starting directory 
 %USERPROFILE%
 
---- 
-# Settings to switch 
-
-## System > Multitasking 
-- Click dropdown arrow and uncheck "When I snap a window, suggest what I can snap next to it"
-
-## Personalization > Lockscreen 
-- Uncheck "Get fun facts, tips, tricks and more on your lock screen"
-- Personalize your lock screen > picture 
-
-# Enable Hibernation 
-Open the old control panel (Might need to search )
-Power Options > Choose what the power buttons do > Check hibernation 
-
-# Add executor to startup 
-Might be marked as a virus (allow through defender)
-make sure to mark launch on startup 
-Change keybind to win + alt + A 
