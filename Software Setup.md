@@ -1,7 +1,7 @@
 #incomplete 
 Software that I use across different operating systems, all software that I use across OS's are mentioned here. 
 
-NOTE: Nix is used in windows through WSL and through Darwin in MacOS 
+NOTE: Nix is used in windows through WSL and through Darwin on MacOS 
 
 
 [[Linux_Setup]]
@@ -9,3 +9,21 @@ NOTE: Nix is used in windows through WSL and through Darwin in MacOS
 [[MacOS_Setup]]
 
 ## Cross platform Software 
+
+### Applications 
+
+#### Floorp (Firefox browser) 
+
+#### Vivaldi (Chromium browser)
+
+#### VScode
+
+#### Calibre 
+
+#### Netbird 
+
+#### Obsidian 
+
+#### Anki 
+
+### Terminal Applications 

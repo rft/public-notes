@@ -34,7 +34,6 @@ after it has been cloned I run `sudo nixos-rebuild switch --flake .#mistletoe`
 - Autohotkey
 - mpv.net 
 - lossless cut
-- netbird
 
 ### Powershell
 If you want to keep your sanity on windows use powershell, makes you feel more at home if you are used to bash, no longer will you type "ls" and be rejected by windows for not typing "dir" instead
