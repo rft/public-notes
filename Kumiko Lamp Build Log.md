@@ -32,6 +32,7 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 | E27 Socket                                    | $3.42  |
 | BT3 Button Head Cap Self Tapping Screw (BHCS) | $1.07  |
 |                                               |        |
+|                                               |        |
 | Total                                         | $55.46 |
 
 probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. 
