@@ -4,13 +4,29 @@
 
 
 
+
+
+# Background
+
+Kumiko is a very old Japanese woodworking technique that began around the 8th century. It is composed of geometric shapes that can make for some pretty cool designs, I am 3d printing them here, becaus
+
+ https://makerworld.com/en/models/1358686-customizable-kumiko-lantern-lamp-by-foxwood#profileId-1402877
+
+
+
 # Materials 
 
-### Filament 
-- PLA 
+### Filaments
+- [PLA Rosewood filament]( https://us.store.bambulab.com/products/pla-wood?id=43075831988360 ) 315g
+- [PLA Matte Latte Brown](https://us.store.bambulab.com/products/pla-matte?skr=yes&id=40489682010248&modelId=1358686) 
+### Parts
+- [E27 Socket (standard lightbulb socket)](https://www.aliexpress.us/item/3256807162800460.html?gatewayAdapt=glo2usa)
+- [BT3 Button Head Cap Self Tapping Screw (BHCS)](https://us.store.bambulab.com/products/bt3-button-head-cap-self-tapping-screw-bhcs?skr=yes&id=42382284914824&modelId=1358686)
 
-
-Project link: https://makerworld.com/en/models/1358686-customizable-kumiko-lantern-lamp-by-foxwood#profileId-1402877
-
-E27 Socket (Typical lightbulb socket): https://www.aliexpress.us/item/3256807162800460.html?gatewayAdapt=glo2usa
-
+| Item                                          | Cost   |
+| --------------------------------------------- | ------ |
+| PLA Rosewood filament                         | $24.99 |
+| PLA Matte Latte Brown                         | $12.99 |
+| PLA Matte Ivory White                         | $12.99 |
+| E27 Socket                                    | $3.42  |
+| BT3 Button Head Cap Self Tapping Screw (BHCS) | $1.07  |
