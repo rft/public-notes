@@ -22,20 +22,20 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 ### Parts
 - [E27 Socket (standard lightbulb socket)](https://www.aliexpress.us/item/3256807162800460.html?gatewayAdapt=glo2usa)
 - [BT3 Button Head Cap Self Tapping Screw (BHCS)](https://us.store.bambulab.com/products/bt3-button-head-cap-self-tapping-screw-bhcs?skr=yes&id=42382284914824&modelId=1358686)
-- Phillips HUE A19 light bulb
+- [Phillips HUE A19 light bulb](https://www.amazon.com/Philips-Hue-Bluetooth-Compatible-Assistant/dp/B07QV9XB87)
 
-| Item                                          | Cost   |
-| --------------------------------------------- | ------ |
-| PLA Rosewood filament                         | $24.99 |
-| PLA Matte Latte Brown                         | $12.99 |
-| PLA Matte Ivory White                         | $12.99 |
-| E27 Socket                                    | $3.42  |
-| BT3 Button Head Cap Self Tapping Screw (BHCS) | $1.07  |
-|                                               |        |
-|                                               |        |
-| Total                                         | $55.46 |
+| Item                                          | Cost    |
+| --------------------------------------------- | ------- |
+| PLA Rosewood filament                         | $24.99  |
+| PLA Matte Latte Brown                         | $12.99  |
+| PLA Matte Ivory White                         | $12.99  |
+| E27 Socket                                    | $3.42   |
+| BT3 Button Head Cap Self Tapping Screw (BHCS) | $1.07   |
+| Phillips Hue Bulb 2 pack                      | $71.99  |
+|                                               |         |
+| Total                                         | $127.45 |
 
-probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. 
+probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. You can also use whatever lighbulbs, but I like the hue ones for my automations that I have setup, and for the fact it uses zigbee. 
 
-Also the bulbs I have are E26, but the socket mentions its compatible with both ¯\_(ツ)_/¯
+Also the bulbs I have are E26, but the socket mentions its compatible with both ¯\\\_(ツ)\_/¯
 # 
