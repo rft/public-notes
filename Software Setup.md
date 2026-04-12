@@ -27,3 +27,14 @@ NOTE: Nix is used in windows through WSL and through Darwin on MacOS
 #### Anki 
 
 ### Terminal Applications 
+
+#### Atuin
+#### Bandwhich 
+
+#### Bat
+
+#### Binsider
+
+#### Bottom 
+
+### 

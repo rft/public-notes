@@ -35,4 +35,6 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 | Total                                         | $55.46 |
 
 probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. 
+
+Also the bulbs I have are E26, but the socket mentions its compatible with both ¯\_(ツ)_/¯
 # 
