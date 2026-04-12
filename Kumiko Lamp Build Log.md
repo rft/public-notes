@@ -4,6 +4,11 @@
 
 
 
+# Materials 
+
+### Filament 
+- PLA 
+
 
 Project link: https://makerworld.com/en/models/1358686-customizable-kumiko-lantern-lamp-by-foxwood#profileId-1402877
 
