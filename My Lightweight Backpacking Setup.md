@@ -58,7 +58,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 #### Mods
 
-# Backpack - Nunatak Bears Ears
+# Backpack - Nunatak Bears Ears 32L 
 
 Torso : 19" 
 Waist : 32-34" 
