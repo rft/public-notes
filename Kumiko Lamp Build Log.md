@@ -16,7 +16,7 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 # Materials 
 
 ### Filaments
-- [PLA Rosewood filament]( https://us.store.bambulab.com/products/pla-wood?id=43075831988360 ) 315g
+- [PLA Rosewood filament]( https://us.store.bambulab.com/products/pla-wood?id=43075831988360 )
 - [PLA Matte Latte Brown](https://us.store.bambulab.com/products/pla-matte?skr=yes&id=40489682010248&modelId=1358686) 
 - [PLA Matte Ivory White](https://us.store.bambulab.com/products/pla-matte?skr=yes&id=40489681780872&modelId=1358686)
 ### Parts
