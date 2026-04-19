@@ -48,5 +48,7 @@ Also the bulbs I have are E26, but the socket mentions its compatible with both 
 
 The amount of triangles that are in each wall are 35 (height) x 10 (length) 
 
-if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you get to the last 3. 
+if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across).
+
+
 
