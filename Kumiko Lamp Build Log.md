@@ -73,7 +73,7 @@ Once you have one wall panel complete it's pretty easy to complete another one j
 - [ ] TODO: picture
 
 ```
-⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side
+⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side.
 ```
 
 - [ ] TODO: picture 
