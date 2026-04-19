@@ -38,4 +38,10 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. You can also use whatever lighbulbs, but I like the hue ones for my automations that I have setup, and for the fact it uses zigbee. 
 
 Also the bulbs I have are E26, but the socket mentions its compatible with both ¯\\\_(ツ)\_/¯
-# 
+# The Build
+
+## The Parts 
+ *Ashanoa (the three pronged inserts) count is not accurate in photo 
+
+## The Walls
+ You can basically design any pattern you want, there's this website https://www.kumikodesigner.com/ that will generate patterns for you, but in my case I'm just gonna use the one they 
