@@ -33,7 +33,8 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 | BT3 Button Head Cap Self Tapping Screw (BHCS) | $1.07   |
 | Phillips Hue Bulb 2 pack                      | $71.99  |
 |                                               |         |
-| Total                                         | $127.45 |
+| **Total**                                     | $127.45 |
+| **Total without bulbs**                       | $55.46  |
 
 probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. You can also use whatever lighbulbs, but I like the hue ones for my automations that I have setup, and for the fact it uses zigbee. 
 
@@ -58,9 +59,11 @@ I didn't count them I just did
 >>> reduce(lambda a,b: a + (b*3), range(1,8),0)
 84
 
->>> _ * 2 * 4 # _ <- means to use last result in this case 84
+>>> _ * 2 * 4 # _ <- means to use last result, which in this case is 84
 672
 ```
 
 because I am lazy, probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once. 
 
+
+Once you have one wall panel complete
