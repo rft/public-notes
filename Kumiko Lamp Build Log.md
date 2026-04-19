@@ -50,14 +50,17 @@ The amount of triangles that are in each wall are 35 (height) x 10 (length)
 
 if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
 
-You will need 84 Ashanoas for every diagonal 
+You will need 672 Ashanoas in total (84 for every diagonal)
 
 I didn't count them I just did 
 ```python
 >>> from functools import reduce
->>> reduce(lambda a,b: a + (b*3),range(1,8),0)
+>>> reduce(lambda a,b: a + (b*3), range(1,8),0)
 84
+
+>>> _ * 2 * 4 # _ <- means to use last result in this case 84
+672
 ```
 
-because I am lazy 
+because I am lazy, probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once. 
 
