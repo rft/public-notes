@@ -43,7 +43,8 @@ Also the bulbs I have are E26, but the socket mentions its compatible with both 
 
 ## The Parts 
  *Ashanoa (the three pronged inserts) count is not accurate in photo 
-
+ 
+![[2026-04-19_Kumiko_lamp_parts_1.png]]
 ## The Walls
  You can basically design any pattern you want, there's this website https://www.kumikodesigner.com/ that will generate patterns for you, but in my case I'm just gonna use the one that's already in the 3d print, as well as using the same angled design. 
 
@@ -77,4 +78,6 @@ Once you have one wall panel complete it's pretty easy to complete another one j
 ```
 
 - [ ] TODO: picture 
+![[Pasted image 20260419165158.png]]
+
 
