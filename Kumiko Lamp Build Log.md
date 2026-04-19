@@ -51,6 +51,8 @@ The amount of triangles that are in each wall are 35 (height) x 10 (length)
 
 if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
 
+- [ ] TODO: picture 
+
 You will need 672 Ashanoas in total (84 for every diagonal)
 
 I didn't count them I just did 
@@ -66,4 +68,10 @@ I didn't count them I just did
 because I am lazy, probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once. 
 
 
-Once you have one wall panel complete
+Once you have one wall panel complete it's pretty easy to complete another one just by laying it on top of it and copying the layout.
+
+- [ ] TODO: picture
+
+```
+⚠️ **Warning**: The panels are not identical to each other
+```
