@@ -74,11 +74,29 @@ Once you have one wall panel complete it's pretty easy to complete another one j
 
 
 ```
-⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side.
+⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side. They will not be the same when rotated.
 ```
 
+![[Pasted image 20260419170752.png]]
 
-- [ ] TODO: picture 
+## The Frame
+The rest is pretty straightforward, so it will mostly just be pictures here.
+
+
 ![[Pasted image 20260419165158.png]]
+Put the socket in the large block, and make sure to screw on the overhang piece. Then connect four screws to the main frame from the top into the block. 
 
+![[Pasted image 20260419171111.png]]
+
+Make sure when screwing in, that it becomes flush with the block. Might seem like it won't be able to, but eventually it will.
+
+Once that is complete, I flip the lamp over and attach the stand.
+
+![[Pasted image 20260419171408.png]]
+
+There are four more screws to screw in here. same deal as before with making sure it is flush. I believe this is also where the four pegs go in as well, but I didn't want to do that here so I did not insert them. If only because I like the look of this better 
+
+![[891EED39-80F5-42AE-99CF-0A06365C0893_1_105_c.jpeg]]
+
+Once that is done, all that's really left is to put in the light bulb, the shade, and the walls in and screw the top. 
 
