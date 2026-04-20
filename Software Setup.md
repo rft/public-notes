@@ -1,5 +1,6 @@
-#incomplete 
-Software that I use across different operating systems, all software that I use across OS's are mentioned here. 
+#setup #Index 
+
+In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I 
 
 NOTE: Nix is used in windows through WSL and through Darwin on MacOS, and then I just use NixOS for my linux distro. 
 
