@@ -1,4 +1,4 @@
-#incomplete 
+#incomplete #python
 # Xonsh
 Terminal built around python 
 
