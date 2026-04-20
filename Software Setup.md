@@ -84,8 +84,7 @@ Vivaldi is the most featureful chrome browser i've found. There is one part that
 #### syncthing
 
 #### tealdeer
-man pages but shorter, I prefer to use this first if I just need to get something working quickly 
-
+man pages but shorter, I prefer to use this first if I just need to get something working quickly. 
 #### tio
 Serial tty tool
 #### tokei 
