@@ -8,7 +8,7 @@
 
 # Background
 
-Kumiko is a very old Japanese woodworking technique that began around the 8th century. It is composed of geometric shapes that can make for some pretty cool designs, I am 3d printing them here, because firstly it's pretty easy and secondly because real Kumiko builds cost way more than I'd typically ever want to pay for, which is understandable why it's so expensive given the intricate patterns and the labor it would take to produce. 
+Kumiko is a very old Japanese woodworking technique that began around the 8th century. It is composed of geometric shapes that can make for some pretty cool designs. I am 3d printing them here because firstly it's pretty easy and secondly because real Kumiko builds cost way more than I'd typically ever want to pay for, which is understandable why it's so expensive given the intricate patterns and the labor it would take to produce. 
 
 The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-lantern-lamp-by-foxwood#profileId-1402877
 
@@ -36,7 +36,7 @@ The model I used: https://makerworld.com/en/models/1358686-customizable-kumiko-l
 | **Total**                                     | $127.45 |
 | **Total without bulbs**                       | $55.46  |
 
-probably not necessary to go with the rosewood filament, I just liked the color more so I went with that. You can also use whatever lighbulbs, but I like the hue ones for my automations that I have setup, and for the fact it uses zigbee. 
+Probably not necessary to go with the rosewood filament. I just liked the color more, so I went with that. You can also use whatever lightbulbs, but I like the hue ones for my automations that I have set up, and for the fact that it uses Zigbee. 
 
 Also the bulbs I have are E26, but the socket mentions its compatible with both ¯\\\_(ツ)\_/¯
 # The Build
@@ -46,11 +46,11 @@ Also the bulbs I have are E26, but the socket mentions its compatible with both 
  
 ![[2026-04-19_Kumiko_lamp_parts_1.png]]
 ## The Walls
- You can basically design any pattern you want, there's this website https://www.kumikodesigner.com/ that will generate patterns for you, but in my case I'm just gonna use the one that's already in the 3d print, as well as using the same angled design. 
+ You can basically design any pattern you want. There’s this website https://www.kumikodesigner.com/ that will generate patterns for you, but in my case, I'm just going to use the one that's already in the 3d print, as well as using the same angled design. 
 
 The amount of triangles that are in each wall are 35 (height) x 10 (length) 
 
-if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
+If you want to do the same angled pattern, either start on the 15th triangle down or the 21st up, and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
 
 ![[2026-04-19_Kumiko_lamp_build_wall_2.png]]
 
@@ -66,16 +66,13 @@ I didn't count them I just did
 672
 ```
 
-because I am lazy. There is probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once so why bother. 
+Because I am lazy. There is probably a more elegant way of figuring that out, but I'm only going to be doing that calculation once.
 
-Once you have one wall panel complete it's pretty easy to complete another one just by laying it on top of it and copying the layout.
+Once you have one wall panel complete, it's pretty easy to complete another one just by laying it on top of it and copying the layout.
 
 ![[EF8EC401-E6F7-4B8C-8356-F6C8F3377091_1_105_c.jpeg]]
 
-
-```
-⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side. They will not be the same when rotated.
-```
+⚠️ Warning: Once you create two of an identical panel, you will need to create 2 more that have the diagonals on the opposite side. They will not be the same when rotated.
 
 ![[Pasted image 20260419170752.png]]
 
@@ -104,7 +101,7 @@ As a note , the shade is just fit in loosely and can be taken out and put back r
 
 ![[Pasted image 20260419171744.png]]
 
-Screw in the four corners of the top (this might require a bit more work than the other ones) and tada! 
+Screw in the four corners of the top (this might require a bit more work than the other ones), and tada! 
 
 ![[332ABFDB-FC40-42CC-A458-5CE576E06473_1_102_o.jpeg]]
 
