@@ -73,7 +73,39 @@ Vivaldi is the most featureful chrome browser i've found. There is one part that
 
 #### procs
 
-#### 
+#### rclone 
+
+#### rink
+
+#### ripgrep
+
+#### rsync 
+
+#### syncthing
+
+#### tealdeer
+man pages but shorter, I prefer to use this first if I just need to get something working quickly 
+
+#### tio
+Serial tty tool
+#### tokei 
+
+#### trippy
+like traceroute and ping were combined  together 
+#### Visidata 
+
+#### watchexec
+
+#### wget
+
+#### yazi 
+
+#### yq 
+
+#### yta-dlp 
+
+#### zellij 
+#### zoxide 
 
 #### Neovim 
 
