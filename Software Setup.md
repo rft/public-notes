@@ -44,6 +44,7 @@ Most featureful firefox browser i've found, can even (limitedly) run chrome exte
 I use [Natsumi](https://github.com/greeeen-dev/natsumi-browser) which makes my floorp more pretty
 
 #### [[Vivaldi]] (Chromium browser)
+Vivaldi is the most featureful chrome browser i've found. There is one part that kind of drives me insane though, 
 
 #### [[Orion]] (Webkit browser)
 
@@ -55,11 +56,26 @@ I use [Natsumi](https://github.com/greeeen-dev/natsumi-browser) which makes my f
 
 #### Bat
 
-#### Binsider
-
 #### Bottom 
 
+#### FFMPEG 
 #### fd
 
+#### fzf
+
+#### Git 
+
+#### jq 
+
+#### pandoc
+
+#### pass 
+
+#### procs
+
+#### 
+
 #### Neovim 
+
+
 
