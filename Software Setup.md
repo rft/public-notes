@@ -1,10 +1,9 @@
 #setup #Index 
 
-In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I 
+In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I keep most software the same. However there are always some software exclusive to a certain OS so I have linked those to other pages. 
 
-NOTE: Nix is used in windows through WSL and through Darwin on MacOS, and then I just use NixOS for my linux distro. 
 
-if you want my elevator pitch for NixOS go here -> [[NixOS]] but long story short, it keeps all of my configurations and software synced between platforms. It's the only thing that keeps my sanity with the amount of different operating systems and computers I use. 
+To keep most of my software consistent I use Nix
 
 # Specific software for OS's 
 [[Linux_Setup]]
