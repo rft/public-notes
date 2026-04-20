@@ -13,17 +13,20 @@ To keep most of my software consistent I use Nix
 ## Cross platform Software 
 
 ### Applications 
-Software that I have across all 3 platforms that I would consider to be a GUI application
+Software that I have across all 3 platforms
 #### [[VScode]]
+Text editor, not always what I use (neovim being the other one), but does excel in certain tasks and there's basically a plugin for everything 
 
-#### Calibre 
+#### Calibre
+What I use to manage 
 
-#### Obsidian 
-
+#### Obsidian
+- 
 #### [[Anki]] 
+- 
 
 #### Netbird 
-
+- 
 ### Browsers 
 #### [[Floorp]] (Firefox browser) 
 
@@ -33,6 +36,7 @@ Software that I have across all 3 platforms that I would consider to be a GUI ap
 ### Terminal Applications 
 
 #### Atuin
+- 
 #### Bandwhich 
 
 #### Bat
