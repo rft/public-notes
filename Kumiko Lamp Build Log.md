@@ -3,7 +3,9 @@
 # Final Result 
 
 ![[2026-04-19_Kumiko_lamp_final_0.jpeg]]
-[[2026-04-19_Kumiko_lamp_video.mov]]
+
+Party mode
+![[2026-04-19_Kumiko_lamp_video.mov]]
 
 
 # Background
