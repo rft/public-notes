@@ -1,4 +1,4 @@
-#incomplete #builds #3dprinting 
+#builds #3dprinting 
 
 # Final Result 
 
@@ -100,3 +100,17 @@ There are four more screws to screw in here. same deal as before with making sur
 
 Once that is done, all that's really left is to put in the light bulb, the shade, and the walls in and screw the top. 
 
+As a note , the shade is just fit in loosely and can be taken out and put back really easily.
+
+![[Pasted image 20260419171744.png]]
+
+Screw in the four corners of the top (this might require a bit more work than the other ones) and tada! 
+
+![[332ABFDB-FC40-42CC-A458-5CE576E06473_1_102_o.jpeg]]
+
+You got yourself a pretty cool lamp
+
+
+![[10CF68F6-8F09-4B77-91CA-1FA63CC9E723_1_105_c.jpeg]]
+
+A picture of my cat for the road. 
