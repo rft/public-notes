@@ -1,10 +1,15 @@
 #setup #Index #incomplete 
 
-In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I keep most software the same. However there are always some software exclusive to a certain OS so I have linked those below
+In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I keep most software the same. However there are always some software exclusive to a certain OS so I have linked those below. 
 
 
-To keep most of my software consistent I use Nix
+To keep most of my software consistent I use Nix/NixOS. 
 
+On windows I use NixOS for WSL, so it's pretty much the same experience as linux terminal wise. I do install fd/ripgrep on windows though since I still need to use powershell occasionally. 
+
+MacOS I use nix darwin, so again the terminal experience is essentially the same, minus some packages that don't exist on darwin.
+
+My Linux distro is NixOS, really tuned for productivity, still kind of janky which linux is sometimes. But I really wish I could bring niri to windows/mac since it feels so much better than the way MacOS/Windows handles that. 
 # Specific software for OS's 
 - [[Linux_Setup]]
 - [[Windows Setup]]
@@ -30,7 +35,13 @@ Like tailscale but open source, that being a VPN that I set up for myself so I c
 
 ### Browsers 
 I kind of hate using more than one browser, but sometimes some websites don't work well on firefox based ones (even if I send a chrome useragent) 
+
+I have a list of [[Browser Extensions]] that I use per browser. 
+
+
 #### [[Floorp]] (Firefox browser) 
+Most featureful firefox browser i've found, can even (limitedly) run chrome extensions. 
+I use [Natsumi](https://github.com/greeeen-dev/natsumi-browser) which makes my floorp more pretty
 
 #### [[Vivaldi]] (Chromium browser)
 
