@@ -2,8 +2,8 @@
 
 # Final Result 
 
-
-
+![[2026-04-19_Kumiko_lamp_final_0.jpeg]]
+[[2026-04-19_Kumiko_lamp_video.mov]]
 
 
 # Background
@@ -52,7 +52,7 @@ The amount of triangles that are in each wall are 35 (height) x 10 (length)
 
 if you want to do the same angled pattern either start on the 15th triangle down or the 21st up and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
 
-- [ ] TODO: picture 
+![[2026-04-19_Kumiko_lamp_build_wall_2.png]]
 
 You will need 672 Ashanoas in total (84 for every diagonal)
 
@@ -66,16 +66,17 @@ I didn't count them I just did
 672
 ```
 
-because I am lazy, probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once. 
-
+because I am lazy. There is probably a more elegant way of figuring that out, but I'm only gonna be doing that calculation once so why bother. 
 
 Once you have one wall panel complete it's pretty easy to complete another one just by laying it on top of it and copying the layout.
 
-- [ ] TODO: picture
+![[EF8EC401-E6F7-4B8C-8356-F6C8F3377091_1_105_c.jpeg]]
+
 
 ```
 ⚠️ **Warning**: Once you create two of an identical panel, you will need to create 2 more that has the diagonals on the opposite side.
 ```
+
 
 - [ ] TODO: picture 
 ![[Pasted image 20260419165158.png]]
