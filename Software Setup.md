@@ -47,19 +47,22 @@ I use [Natsumi](https://github.com/greeeen-dev/natsumi-browser) which makes my f
 Vivaldi is the most featureful chrome browser i've found. There is one part that kind of drives me insane though, which is that when I set up a custom search engine I cannot use \<custom search\> TAB "my search" it's \<custom search\> SPC instead, minor complaint, but I'm so used to the other method for my other browsers that it's engrained into me, and as far as I'm aware I cannot change this behavior. 
 
 #### [[Orion]] (Webkit browser)
-I primarily use this on my Mac, 
+I primarily use this on my Mac, still has a long ways to go (and also not open source) but can use both chrome and firefox extensions, feels really fast too. I have high hopes for this browser. 
 
 ### Terminal Applications 
 
 #### Atuin
 Shell history, shows up as a list \<tab\> to put command down for editing and \<enter\> to run the command. One of my favorites. 
+![[Pasted image 20260420184217.png]]
 #### Bandwhich 
 Like task manager except for network related stuff. Can see what's eating your bandwidth 
 #### Bat
-an alternative to cat, comes with syntax highlighting and a few other features 
+an alternative to cat, comes with syntax highlighting and a few other features.
 #### Bottom 
 View information about cpu, disks, network, memory, etc. An alternative to htop 
-#### FFMPEG 
+![[Pasted image 20260420184401.png]]
+
+#### ffmpeg 
 Video tool, can do a ton of different things, I usually use to grab certain things from video files or stitch pictures into a video. But can do a  lot more. 
 #### fd
 like the `find` command, but I think it has sane defaults. Finds files for you  
@@ -75,6 +78,7 @@ Document converter, can convert into a lot of different formats
 Password manager, most useful when setting up environment variables, you can set it to use pass for it. That way I can keep my secrets all in one place, and not completely be scared that I committed something bad. 
 #### procs
 a `ps` alternative
+![[Pasted image 20260420184505.png]]
 #### rclone 
 pull data from cloud services 
 #### rink
@@ -92,7 +96,7 @@ Serial tty tool
 #### tokei 
 Count lines of code in a folder, I guess not entirely too useful but it's there 
 #### trippy
-like traceroute and ping were combined  together 
+like traceroute and ping were combined together 
 #### Visidata 
 Terminal spreadsheet tool. 
 #### watchexec
@@ -101,6 +105,7 @@ run commands when files change, like a log or something.
 download files from the internet. 
 #### yazi 
 Terminal file manager 
+![[Pasted image 20260420184600.png]]
 #### yq 
 jq but for yaml 
 #### yt-dlp 
