@@ -1,4 +1,4 @@
-#setup #Index #incomplete 
+#setup #Index 
 
 In this document I just go over the Software that I use across different operating systems. I try to keep consistency between systems so I keep most software the same. However there are always some software exclusive to a certain OS so I have linked those below. 
 
@@ -73,44 +73,43 @@ json processor, though I don't use it as much since xonsh kind of lets me use th
 Document converter, can convert into a lot of different formats 
 #### pass 
 Password manager, most useful when setting up environment variables, you can set it to use pass for it. That way I can keep my secrets all in one place, and not completely be scared that I committed something bad. 
-
 #### procs
 a `ps` alternative
-
 #### rclone 
-
+pull data from cloud services 
 #### rink
-
+Unit converter, based off of frink, but made in rust instead 
 #### ripgrep
-
+grep but better pretty much in every way
 #### rsync 
-
+sync data across remote machines, done over ssh, slightly slower than rclone, but can do more. 
 #### syncthing
-
+File sync between devices
 #### tealdeer
 man pages but shorter, I prefer to use this first if I just need to get something working quickly. 
 #### tio
 Serial tty tool
 #### tokei 
-
+Count lines of code in a folder, I guess not entirely too useful but it's there 
 #### trippy
 like traceroute and ping were combined  together 
 #### Visidata 
-
+Terminal spreadsheet tool. 
 #### watchexec
-
+run commands when files change, like a log or something. 
 #### wget
-
+download files from the internet. 
 #### yazi 
-
+Terminal file manager 
 #### yq 
-
-#### yta-dlp 
-
+jq but for yaml 
+#### yt-dlp 
+tool to download videos, not just youtube though 
 #### zellij 
+Terminal multiplexer, an alternative to tmux, really nice to use and has more sane defaults.
 #### zoxide 
-
+a smarter cd, jumps to a directory based on frequency and some other heuristics, can match partially, very nice program.
 #### Neovim 
-
+text editor that I use, used to use emacs, I miss it sometimes, but I got most of the functionality I wanted (I never really used lisp) my configuration is [here](https://github.com/rft/nixcat-nvim)
 
 
