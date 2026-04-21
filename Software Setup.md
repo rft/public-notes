@@ -51,6 +51,7 @@ Vivaldi is the most featureful chrome browser i've found. There is one part that
 ### Terminal Applications 
 
 #### Atuin
+Shell history, shows up as a list \<tab\> to put command down for editing and \<enter\> to run the command. One of my favorites. 
 
 #### Bandwhich 
 
