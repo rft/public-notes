@@ -52,20 +52,20 @@ Vivaldi is the most featureful chrome browser i've found. There is one part that
 
 #### Atuin
 Shell history, shows up as a list \<tab\> to put command down for editing and \<enter\> to run the command. One of my favorites. 
-
 #### Bandwhich 
-
+Like task manager except for network related stuff. Can see what's eating your bandwidth 
 #### Bat
-
+an alternative to cat, comes with syntax highlighting and a few other features 
 #### Bottom 
-
+View information about cpu, disks, network, memory, etc. An alternative to htop 
 #### FFMPEG 
+Video tool, can do a ton of different things, I usually use to grab certain things from video files or stitch pictures into a video. But can do a  lot more. 
 #### fd
-
+like the `find` command, but I think it has sane defaults. Finds files for you  
 #### fzf
-
+fuzzy finder, not too crazy in itself, but works well when mixing the output of other programs to.
 #### Git 
-
+Version control, have been considering trying jujutsu though as a new way of managing changes.
 #### jq 
 
 #### pandoc
@@ -73,6 +73,7 @@ Shell history, shows up as a list \<tab\> to put command down for editing and \<
 #### pass 
 
 #### procs
+a `ps` alternative
 
 #### rclone 
 
