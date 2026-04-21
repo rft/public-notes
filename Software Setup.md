@@ -44,9 +44,10 @@ Most featureful firefox browser i've found, can even (limitedly) run chrome exte
 I use [Natsumi](https://github.com/greeeen-dev/natsumi-browser) which makes my floorp more pretty
 
 #### [[Vivaldi]] (Chromium browser)
-Vivaldi is the most featureful chrome browser i've found. There is one part that kind of drives me insane though, 
+Vivaldi is the most featureful chrome browser i've found. There is one part that kind of drives me insane though, which is that when I set up a custom search engine I cannot use \<custom search\> TAB "my search" it's \<custom search\> SPC instead, minor complaint, but I'm so used to the other method for my other browsers that it's engrained into me, and as far as I'm aware I cannot change this behavior. 
 
 #### [[Orion]] (Webkit browser)
+I primarily use this on my Mac, 
 
 ### Terminal Applications 
 
@@ -66,11 +67,12 @@ like the `find` command, but I think it has sane defaults. Finds files for you
 fuzzy finder, not too crazy in itself, but works well when mixing the output of other programs to.
 #### Git 
 Version control, have been considering trying jujutsu though as a new way of managing changes.
-#### jq 
-
+#### jq
+json processor, though I don't use it as much since xonsh kind of lets me use the python object, for it. Still useful sometimes though 
 #### pandoc
-
+Document converter, can convert into a lot of different formats 
 #### pass 
+Password manager, most useful when setting up environment variables, you can set it to use pass for it. That way I can keep my secrets all in one place, and not completely be scared that I committed something bad. 
 
 #### procs
 a `ps` alternative
