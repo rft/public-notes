@@ -10,7 +10,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | **Item**                                                    | **Cost** | **Weight** | **Link** |
 | ----------------------------------------------------------- | -------- | ---------- | -------- |
 | Nunatak Sastrugi                                            | $485     | 729g       |          |
-| Nunatak Bears Ears                                          |          |            |          |
+| Nunatak Bears Ears                                          | $355     | 807g       |          |
 | Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
 | Nemo Fillo Elite                                            |          | 53g        |          |
 | Bearikade Weekender                                         |          | 880g       |          |
