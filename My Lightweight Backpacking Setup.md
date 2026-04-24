@@ -30,7 +30,7 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Datalogger                                                  |          |            |          |
 | Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |          |
 | Zenbivy packliner                                           |          |            |          |
-| Xmid 2                                                      |          | 965g       |          |
+|                                                             |          |            |          |
 | Xowool Toe Sock Size 2 (x3)                                 |          |            |          |
 | Toothpaste Tablets Huppy                                    |          | 48g        |          |
 | Merino MM knife                                             |          | 45g        |          |
