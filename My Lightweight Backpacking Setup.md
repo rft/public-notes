@@ -7,39 +7,39 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 
 # Summary 
 
-| **Item**                                                    | **Cost** | **Weight** | **Link** |
-| ----------------------------------------------------------- | -------- | ---------- | -------- |
-| Nunatak Sastrugi                                            | $485     | 729g       |          |
-| Nunatak Bears Ears                                          | $355     | 807g       |          |
-| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |          |
-| Nemo Fillo Elite                                            |          | 53g        |          |
-| Bearikade Weekender                                         |          | 880g       |          |
-| Firemaple Petrel Stove G3                                   |          | 178g       |          |
-| Firemaple Greenpeak camping stove burner                    |          | 85g        |          |
-| Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |          |
-| Toaks Titanium Spoon                                        |          | 13g        |          |
-| Sawyer Mini Filter + Cnoc Bag                               |          |            |          |
-| M!GO Mazama Water Bottle                                    |          | 132g       |          |
-| Flextail Zero Pump                                          |          | 96g        |          |
-| Naturehike quick dry Towel                                  |          | 30g        |          |
-| Durston Xmid 2                                              |          | 880g       |          |
-| Sea to Summit ultra fine mesh mosquito net                  |          | 23g        |          |
-| BoglerCo Ultralight Trowel                                  |          | 14g        |          |
-| sunscreen stick - skin 1004                                 |          |            |          |
-| Leukotape                                                   |          |            |          |
-| Datalogger                                                  |          |            |          |
-| Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |          |
-| Zenbivy packliner                                           |          |            |          |
-|                                                             |          |            |          |
-| Xowool Toe Sock Size 2 (x3)                                 |          |            |          |
-| Toothpaste Tablets Huppy                                    |          | 48g        |          |
-| Merino MM knife                                             |          | 45g        |          |
-| Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |          |
-| Firebiner                                                   |          | 31g        |          |
-| Summit Suds Powdered Soap Pika outdoors (1oz)               |          | 40g        |          |
-|                                                             |          |            |          |
-|                                                             |          |            |          |
-| **Total**                                                   |          |            |          |
+| **Item**                                                    | **Cost** | **Weight** |
+| ----------------------------------------------------------- | -------- | ---------- |
+| Nunatak Sastrugi                                            | $485     | 729g       |
+| Nunatak Bears Ears                                          | $355     | 807g       |
+| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |
+| Nemo Fillo Elite                                            |          | 53g        |
+| Bearikade Weekender                                         |          | 880g       |
+| Firemaple Petrel Stove G3                                   |          | 178g       |
+| Firemaple Greenpeak camping stove burner                    |          | 85g        |
+| Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |
+| Toaks Titanium Spoon                                        |          | 13g        |
+| Sawyer Mini Filter + Cnoc Bag                               |          |            |
+| M!GO Mazama Water Bottle                                    |          | 132g       |
+| Flextail Zero Pump                                          |          | 96g        |
+| Naturehike quick dry Towel                                  |          | 30g        |
+| Durston Xmid 2                                              |          | 880g       |
+| Sea to Summit ultra fine mesh mosquito net                  |          | 23g        |
+| BoglerCo Ultralight Trowel                                  |          | 14g        |
+| sunscreen stick - skin 1004                                 |          |            |
+| Leukotape                                                   |          |            |
+| Datalogger                                                  |          |            |
+| Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |
+| Zenbivy packliner                                           |          |            |
+|                                                             |          |            |
+| Xowool Toe Sock Size 2 (x3)                                 |          |            |
+| Toothpaste Tablets Huppy                                    |          | 48g        |
+| Merino MM knife                                             |          | 45g        |
+| Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |
+| Firebiner                                                   |          | 31g        |
+| Summit Suds Powdered Soap Pika outdoors (1oz)               |          | 40g        |
+|                                                             |          |            |
+|                                                             |          |            |
+| **Total**                                                   |          |            |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
