@@ -22,13 +22,13 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | M!GO Mazama Water Bottle                                    | $19      | 132g       |
 | Flextail Zero Pump                                          | $53      | 96g        |
 | Naturehike quick dry Towel                                  | $4       | 30g        |
-| Durston Xmid 2                                              |          | 880g       |
+| Durston Xmid 2                                              | $319     | 880g       |
 | Sea to Summit ultra fine mesh mosquito net                  | $14      | 23g        |
 | BoglerCo Ultralight Trowel                                  | $16      | 14g        |
 | sunscreen stick - skin 1004                                 |          |            |
 | Leukotape                                                   | $15      | 111g       |
 | Datalogger                                                  |          |            |
-| Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |
+| Cascade Mountain Carbon Fiber Trekking Poles                | $49      | 159g       |
 | Zenbivy packliner                                           |          |            |
 |                                                             |          |            |
 | Xowool Toe Sock Size 2 (x3)                                 |          |            |
