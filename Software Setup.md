@@ -26,7 +26,7 @@ Text editor, not always what I use (neovim being the other one), but does excel 
 What I use to manage books, syncs with my kobo, kind of feels clunky, but I haven't found really anything as featureful and good. 
 
 #### Obsidian
-How I manage notes, I used to use orgmode, which I honestly still think is better. However the main issue is mobile, which is where I refer/edit my notes to sometimes. Obsidian does well in this area. But it's also not open source either, so I do want to shift out of Obsidian. At the very least it does use markdown as it's format of choice so I can transfer it elsewhere. 
+Note manager, I used to use orgmode with emacs, which I honestly still think is better. However the main issue is mobile, which is where I refer/edit my notes to sometimes. Obsidian does well in this area. But it's also not open source either, so I do want to shift out of Obsidian. At the very least it does use markdown as it's format of choice so I can transfer it elsewhere. 
 #### [[Anki]] 
 Flashcards, but it's actually pretty goated software, almost like cheating getting information into your brain, although sometimes it does not feel that way. 
 

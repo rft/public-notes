@@ -7,44 +7,43 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 As for costs, this stuff is obscenely expensive, I went more for the buy once cry once route, hopefully it remains that way.  
 # Summary 
 
-| **Item**                                                       | **Cost** | **Weight** |
-| -------------------------------------------------------------- | -------- | ---------- |
-| Nunatak Sastrugi                                               | $485     | 729g       |
-| Nunatak Bears Ears                                             | $355     | 807g       |
-| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)        | $165     | 450g       |
-| Nemo Fillo Elite                                               | $60      | 53g        |
-| Bearikade Weekender                                            | $375     | 880g       |
-| Firemaple Petrel Stove G3                                      | $29      | 178g       |
-| Firemaple Greenpeak camping stove burner                       | $15      | 85g        |
-| Firemaple ASH titanium gas canister folding fuel stabilizer    | $14      | 23g        |
-| Toaks Titanium Spoon                                           | $10      | 13g        |
-| Sawyer Mini Filter + Cnoc Bag                                  | $65      | 167g       |
-| M!GO Mazama Water Bottle                                       | $19      | 132g       |
-| Flextail Zero Pump                                             | $53      | 96g        |
-| Naturehike quick dry Towel                                     | $4       | 30g        |
-| Durston Xmid 2                                                 | $319     | 880g       |
-| Sea to Summit ultra fine mesh mosquito net                     | $14      | 23g        |
-| BoglerCo Ultralight Trowel                                     | $16      | 14g        |
-| Skin 1004 - Madagascar Centella Hyalu Cica Silky-Fit Sun Stick | $18      |            |
-| Leukotape                                                      | $15      | 111g       |
-| Elitech RC-5+Digital PDF USB Temperature Data Logger           | $23      | 41g        |
-| Cascade Mountain Carbon Fiber Trekking Poles                   | $49      | 159g       |
-| Zenbivy packliner (Large) - Deep Sea Blue                      | $41      | 108g       |
-| Zenbivy Dry Sack (15L) - Deep Sea Blue                         | $20      | 79g        |
-| Zenbivy Ditty Dry Sack (3L) - Deep Sea Blue                    | $17      | 53g        |
-| GUM Folding travel toothbrush                                  | $10      |            |
-| Firebiner                                                      | $17      | 31g        |
-| Luna Airmesh Back pad                                          | $20      | 78g        |
-| Xowool Toe Sock Size 2 (x3)                                    | $81      |            |
-| Toothpaste Tablets Huppy                                       | $9       | 48g        |
-| Merino MM knife                                                | $130     | 45g        |
-| Ultralite Sack pouch (5"x9.5")                                 | $15      | 8-14g?     |
-| Summit Suds Powdered Soap Pika outdoors (1oz)                  | $7       | 40g        |
-| Gossamer Gear Thinlight Foam pad 1/8" folded                   | $32      | 94g        |
-| Heat It - insect bite healer                                   | $30      | 3g         |
-| MICROspikes Ghost Footwear Traction by Kahtoola (Medium)       | $110     | 192g       |
-|                                                                |          |            |
-| **Total**                                                      |          |            |
+| Item                                                           |       Cost |     Weight |
+| -------------------------------------------------------------- | ---------: | ---------: |
+| Bearikade Weekender                                            |       $375 |       880g |
+| BoglerCo Ultralight Trowel                                     |        $16 |        14g |
+| Cascade Mountain Carbon Fiber Trekking Poles                   |        $49 |       159g |
+| Durston Xmid 2                                                 |       $319 |       880g |
+| Elitech RC-5+Digital PDF USB Temperature Data Logger           |        $23 |        41g |
+| Firebiner                                                      |        $17 |        31g |
+| Firemaple ASH titanium gas canister folding fuel stabilizer    |        $14 |        23g |
+| Firemaple Greenpeak camping stove burner                       |        $15 |        85g |
+| Firemaple Petrel Stove G3                                      |        $29 |       178g |
+| Flextail Zero Pump                                             |        $53 |        96g |
+| Gossamer Gear Thinlight Foam pad 1/8" folded                   |        $32 |        94g |
+| GUM Folding travel toothbrush                                  |        $10 |            |
+| Heat It - insect bite healer                                   |        $30 |         3g |
+| Leukotape                                                      |        $15 |       111g |
+| Luna Airmesh Back pad                                          |        $20 |        78g |
+| M!GO Mazama Water Bottle                                       |        $19 |       132g |
+| Merino MM knife                                                |       $130 |        45g |
+| MICROspikes Ghost Footwear Traction by Kahtoola (Medium)       |       $110 |       192g |
+| Naturehike quick dry Towel                                     |         $4 |        30g |
+| Nemo Fillo Elite                                               |        $60 |        53g |
+| Nunatak Bears Ears                                             |       $355 |       807g |
+| Nunatak Sastrugi                                               |       $485 |       729g |
+| Sawyer Mini Filter + Cnoc Bag                                  |        $65 |       167g |
+| Sea to Summit ultra fine mesh mosquito net                     |        $14 |        23g |
+| Skin 1004 - Madagascar Centella Hyalu Cica Silky-Fit Sun Stick |        $18 |            |
+| Summit Suds Powdered Soap Pika outdoors (1oz)                  |         $7 |        40g |
+| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)        |       $165 |       450g |
+| Toaks Titanium Spoon                                           |        $10 |        13g |
+| Toothpaste Tablets Huppy                                       |         $9 |        48g |
+| Ultralite Sack pouch (5"x9.5")                                 |        $15 |            |
+| Xowool Toe Sock Size 2 (x3)                                    |        $81 |            |
+| Zenbivy Ditty Dry Sack (3L) - Deep Sea Blue                    |        $17 |        53g |
+| Zenbivy Dry Sack (15L) - Deep Sea Blue                         |        $20 |        79g |
+| Zenbivy packliner (Large) - Deep Sea Blue                      |        $41 |       108g |
+| **Total**                                                      | **$2,642** | **5,642g** |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
@@ -91,7 +90,8 @@ Waist : 32-34"
 |             |       |
 |             |       |
 |             |       |
-
+#### Mods
+- Luna 
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
 
 These were on sale so I picked them up. I am kind of sussed out by the fact it's carbon fiber instead of aluminum, mainly because of the failure mode for aluminum is just a bent pole, vs carbon fiber being basically unusable afterwards. It's a concern because my tent requires this as shelter. 
@@ -114,7 +114,7 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 #### Mods
 - Added reflective tape along circumference of container. Helps to spot in the morning when using headlamp. 
-	- ![[A22D866A-5C6F-4F3F-A823-A72438383A6B_1_105_c.jpeg]]
+	![[A22D866A-5C6F-4F3F-A823-A72438383A6B_1_105_c.jpeg]]
 - Washer keychain loop attached to a carabiner. 
 
 It also doubles as a chair
