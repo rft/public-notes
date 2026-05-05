@@ -32,14 +32,14 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Zenbivy packliner                                           |          |            |
 |                                                             |          |            |
 |                                                             |          |            |
-| Firebiner                                                   | $17      |            |
+| GUM Folding travel toothbrush                               | $10      |            |
+| Firebiner                                                   | $17      | 31g        |
 | Luna Airmesb Back pad                                       | $20      | 78g        |
 | Xowool Toe Sock Size 2 (x3)                                 | $81      |            |
-| Toothpaste Tablets Huppy                                    |          | 48g        |
-| Merino MM knife                                             |          | 45g        |
+| Toothpaste Tablets Huppy                                    | $9       | 48g        |
+| Merino MM knife                                             | $130     | 45g        |
 | Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |
-| Firebiner                                                   |          | 31g        |
-| Summit Suds Powdered Soap Pika outdoors (1oz)               |          | 40g        |
+| Summit Suds Powdered Soap Pika outdoors (1oz)               | $7       | 40g        |
 | Gossamer Gear Thinlight Foam pad 1/8" folded                | $32      | 94g        |
 |                                                             |          |            |
 | **Total**                                                   |          |            |
