@@ -41,7 +41,7 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Ultralite Sack pouch (5"x9.5")                              | $15      | 8-14g?     |
 | Summit Suds Powdered Soap Pika outdoors (1oz)               | $7       | 40g        |
 | Gossamer Gear Thinlight Foam pad 1/8" folded                | $32      | 94g        |
-| Heat It - insect bite healer                                |          |            |
+| Heat It - insect bite healer h                              |          |            |
 |                                                             |          |            |
 | **Total**                                                   |          |            |
 
