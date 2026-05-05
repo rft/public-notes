@@ -1,4 +1,4 @@
-#incomplete #outdoors 
+#incomplete #outdoors #products
 
 My goal for backpacking is to have a durable, "minimal" set of gear, though I do try to balance weight where I can. So while not entirely ultralight, I think this is light enough. 
 
