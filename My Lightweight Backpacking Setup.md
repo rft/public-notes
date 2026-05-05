@@ -7,43 +7,43 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 As for costs, this stuff is obscenely expensive, I went more for the buy once cry once route, hopefully it remains that way.  
 # Summary 
 
-| **Item**                                                    | **Cost** | **Weight** |
-| ----------------------------------------------------------- | -------- | ---------- |
-| Nunatak Sastrugi                                            | $485     | 729g       |
-| Nunatak Bears Ears                                          | $355     | 807g       |
-| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $165     | 450g       |
-| Nemo Fillo Elite                                            | $60      | 53g        |
-| Bearikade Weekender                                         | $375     | 880g       |
-| Firemaple Petrel Stove G3                                   | $29      | 178g       |
-| Firemaple Greenpeak camping stove burner                    | $15      | 85g        |
-| Firemaple ASH titanium gas canister folding fuel stabilizer | $14      | 23g        |
-| Toaks Titanium Spoon                                        | $10      | 13g        |
-| Sawyer Mini Filter + Cnoc Bag                               | $65      | 167g       |
-| M!GO Mazama Water Bottle                                    | $19      | 132g       |
-| Flextail Zero Pump                                          | $53      | 96g        |
-| Naturehike quick dry Towel                                  | $4       | 30g        |
-| Durston Xmid 2                                              | $319     | 880g       |
-| Sea to Summit ultra fine mesh mosquito net                  | $14      | 23g        |
-| BoglerCo Ultralight Trowel                                  | $16      | 14g        |
-| sunscreen stick - skin 1004                                 |          |            |
-| Leukotape                                                   | $15      | 111g       |
-| Elitech RC-5+Digital PDF USB Temperature Data Logger        | $23      | 41g        |
-| Cascade Mountain Carbon Fiber Trekking Poles                | $49      | 159g       |
-| Zenbivy packliner                                           |          |            |
-|                                                             |          |            |
-|                                                             |          |            |
-| GUM Folding travel toothbrush                               | $10      |            |
-| Firebiner                                                   | $17      | 31g        |
-| Luna Airmesb Back pad                                       | $20      | 78g        |
-| Xowool Toe Sock Size 2 (x3)                                 | $81      |            |
-| Toothpaste Tablets Huppy                                    | $9       | 48g        |
-| Merino MM knife                                             | $130     | 45g        |
-| Ultralite Sack pouch (5"x9.5")                              | $15      | 8-14g?     |
-| Summit Suds Powdered Soap Pika outdoors (1oz)               | $7       | 40g        |
-| Gossamer Gear Thinlight Foam pad 1/8" folded                | $32      | 94g        |
-| Heat It - insect bite healer h                              |          |            |
-|                                                             |          |            |
-| **Total**                                                   |          |            |
+| **Item**                                                       | **Cost** | **Weight** |
+| -------------------------------------------------------------- | -------- | ---------- |
+| Nunatak Sastrugi                                               | $485     | 729g       |
+| Nunatak Bears Ears                                             | $355     | 807g       |
+| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)        | $165     | 450g       |
+| Nemo Fillo Elite                                               | $60      | 53g        |
+| Bearikade Weekender                                            | $375     | 880g       |
+| Firemaple Petrel Stove G3                                      | $29      | 178g       |
+| Firemaple Greenpeak camping stove burner                       | $15      | 85g        |
+| Firemaple ASH titanium gas canister folding fuel stabilizer    | $14      | 23g        |
+| Toaks Titanium Spoon                                           | $10      | 13g        |
+| Sawyer Mini Filter + Cnoc Bag                                  | $65      | 167g       |
+| M!GO Mazama Water Bottle                                       | $19      | 132g       |
+| Flextail Zero Pump                                             | $53      | 96g        |
+| Naturehike quick dry Towel                                     | $4       | 30g        |
+| Durston Xmid 2                                                 | $319     | 880g       |
+| Sea to Summit ultra fine mesh mosquito net                     | $14      | 23g        |
+| BoglerCo Ultralight Trowel                                     | $16      | 14g        |
+| Skin 1004 - Madagascar Centella Hyalu Cica Silky-Fit Sun Stick | $18      |            |
+| Leukotape                                                      | $15      | 111g       |
+| Elitech RC-5+Digital PDF USB Temperature Data Logger           | $23      | 41g        |
+| Cascade Mountain Carbon Fiber Trekking Poles                   | $49      | 159g       |
+| Zenbivy packliner (Large) - Deep Sea Blue                      | $41      | 108g       |
+| Zenbivy Dry Sack (15L) - Deep Sea Blue                         | $20      | 79g        |
+| Zenbivy Ditty Dry Sack (3L) - Deep Sea Blue                    | $17      | 53g        |
+| GUM Folding travel toothbrush                                  | $10      |            |
+| Firebiner                                                      | $17      | 31g        |
+| Luna Airmesh Back pad                                          | $20      | 78g        |
+| Xowool Toe Sock Size 2 (x3)                                    | $81      |            |
+| Toothpaste Tablets Huppy                                       | $9       | 48g        |
+| Merino MM knife                                                | $130     | 45g        |
+| Ultralite Sack pouch (5"x9.5")                                 | $15      | 8-14g?     |
+| Summit Suds Powdered Soap Pika outdoors (1oz)                  | $7       | 40g        |
+| Gossamer Gear Thinlight Foam pad 1/8" folded                   | $32      | 94g        |
+| Heat It - insect bite healer h                                 |          |            |
+|                                                                |          |            |
+| **Total**                                                      |          |            |
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
