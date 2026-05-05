@@ -82,6 +82,7 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 #### Mods
 - Added reflective tape along circumference of container. Helps to spot in the morning when using headlamp. 
+	- ![[A22D866A-5C6F-4F3F-A823-A72438383A6B_1_105_c.jpeg]]
 - Washer keychain loop attached to a carabiner. 
 
 It also doubles as a chair
