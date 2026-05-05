@@ -31,6 +31,8 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Cascade Mountain Carbon Fiber Trekking Poles                | $49      | 159g       |
 | Zenbivy packliner                                           |          |            |
 |                                                             |          |            |
+|                                                             |          |            |
+| Luna Airmesb Back pad                                       | $20      | 78g        |
 | Xowool Toe Sock Size 2 (x3)                                 |          |            |
 | Toothpaste Tablets Huppy                                    |          | 48g        |
 | Merino MM knife                                             |          | 45g        |
