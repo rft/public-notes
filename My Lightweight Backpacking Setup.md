@@ -27,7 +27,7 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | BoglerCo Ultralight Trowel                                  | $16      | 14g        |
 | sunscreen stick - skin 1004                                 |          |            |
 | Leukotape                                                   | $15      | 111g       |
-| Datalogger                                                  |          |            |
+| Elitech RC-5+Digital PDF USB Temperature Data Logger        | $23      | 41g        |
 | Cascade Mountain Carbon Fiber Trekking Poles                | $49      | 159g       |
 | Zenbivy packliner                                           |          |            |
 |                                                             |          |            |
@@ -38,9 +38,10 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Xowool Toe Sock Size 2 (x3)                                 | $81      |            |
 | Toothpaste Tablets Huppy                                    | $9       | 48g        |
 | Merino MM knife                                             | $130     | 45g        |
-| Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |
+| Ultralite Sack pouch (5"x9.5")                              | $15      | 8-14g?     |
 | Summit Suds Powdered Soap Pika outdoors (1oz)               | $7       | 40g        |
 | Gossamer Gear Thinlight Foam pad 1/8" folded                | $32      | 94g        |
+| Heat It - insect bite healer                                |          |            |
 |                                                             |          |            |
 | **Total**                                                   |          |            |
 
@@ -65,6 +66,7 @@ Important part is that it's wide
 
 ## Pillow - Nemo Fillo Ultralight 
 
+Pillows I feel like are mostly personal preference, but I like this one a lot since it isn't that raised, but some might not like that. 
 
 # Shelter 
 ## Tent - Durston X-Mid 2
