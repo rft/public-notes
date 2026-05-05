@@ -32,8 +32,9 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Zenbivy packliner                                           |          |            |
 |                                                             |          |            |
 |                                                             |          |            |
+| Firebiner                                                   | $17      |            |
 | Luna Airmesb Back pad                                       | $20      | 78g        |
-| Xowool Toe Sock Size 2 (x3)                                 |          |            |
+| Xowool Toe Sock Size 2 (x3)                                 | $81      |            |
 | Toothpaste Tablets Huppy                                    |          | 48g        |
 | Merino MM knife                                             |          | 45g        |
 | Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |
