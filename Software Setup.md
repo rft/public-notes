@@ -26,15 +26,18 @@ Text editor, not always what I use (neovim being the other one), but does excel 
 What I use to manage books, syncs with my kobo, kind of feels clunky, but I haven't found really anything as featureful and good. 
 
 #### Obsidian
-Note manager, I used to use orgmode with emacs, which I honestly still think is better. However the main issue is mobile, which is where I refer/edit my notes to sometimes. Obsidian does well in this area. But it's also not open source either, so I do want to shift out of Obsidian. At the very least it does use markdown as it's format of choice so I can transfer it elsewhere. 
+Note manager, uses markdown as the file format. I used to use orgmode with emacs, which I still think has some major advantages compared to Obsidian. Though the main issue for me is the lack of good mobile options. 
+
+Obsidian is also not open source, though that pain is mitigated a bit as you can move your notes elsewhere since it does just use raw markdown. 
+
 #### [[Anki]] 
-Flashcards, but it's actually pretty goated software, almost like cheating getting information into your brain, although sometimes it does not feel that way. 
+Flashcards, but it's actually pretty goated software, uses spaced repetition to get content into your brain. 
 
 #### Netbird 
-Like tailscale but open source, that being a VPN that I set up for myself so I can connect to my servers without exposing anything to the scary internet.
+Like tailscale but open source, that being a VPN that I set up for myself.
 
 ### Browsers 
-I kind of hate using more than one browser, but sometimes some websites don't work well on firefox based ones (even if I send a chrome useragent) 
+I kind of hate using more than one browser, but sometimes some websites don't work well on firefox based ones.
 
 I have a list of [[Browser Extensions]] that I use per browser. 
 
@@ -63,7 +66,7 @@ View information about cpu, disks, network, memory, etc. An alternative to htop
 ![[Pasted image 20260420184401.png]]
 
 #### ffmpeg 
-Video tool, can do a ton of different things, I usually use to grab certain things from video files or stitch pictures into a video. But can do a  lot more. 
+Video tool, can do a ton of different things, I usually use to grab certain things from video files or stitch pictures into a video. But can do a lot more. 
 #### fd
 like the `find` command, but I think it has sane defaults. Finds files for you  
 #### fzf
