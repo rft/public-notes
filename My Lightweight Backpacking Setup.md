@@ -66,7 +66,7 @@ Waist : 32-34"
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
-Kind of expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 about BV bear cans and ursacks I am more inclined to use this (could be a biased sample size though since the bearikade is a quite a bit more costly than the other options)
+Pretty expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 
 
 This can however is not IGBC certified, so it cannot be brought on certain trails. 
 
