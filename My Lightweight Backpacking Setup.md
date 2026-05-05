@@ -1,10 +1,8 @@
 #incomplete 
 
-My goal for backpacking is to create a "mentally" minimal setup, not necessarily "ultralight" (although traveling light is a big part of it).  Stuff that is easy, versatile, and small volume.\
+My goal for backpacking is to have a durable, "minimal" set of gear, though I do try to balance weight where I can. So while not entirely ultralight, I think this is light enough. 
 
-I do incur a weight penalty for things that help organize, but for me it's worth it so I know exactly where items go.  
-
-
+I also try to aim for a mentally minimal setup, so I do like to have things that don't require much effort to set up. 
 # Summary 
 
 | **Item**                                                    | **Cost** | **Weight** |
@@ -50,6 +48,9 @@ I do incur a weight penalty for things that help organize, but for me it's worth
 | Shoulder Width     | 59"         |
 |                    |             |
 |                    |             |
+
+Here I am using a zipless bag, in an effort to avoid 
+
 ## Sleeping Pad - Thermarest 
 
 ## Pillow - Nemo Fillo Ultralight 
@@ -83,10 +84,9 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 - Added reflective tape along circumference of container. Helps to spot in the morning when using headlamp. 
 - Washer keychain loop attached to a carabiner. 
 
-It also can double as a chair
+It also doubles as a chair
 
 ## Spoon - Toaks Titanium Spoon 
-
 
 # Small items 
 
