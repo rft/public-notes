@@ -9,8 +9,8 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 | ----------------------------------------------------------- | -------- | ---------- |
 | Nunatak Sastrugi                                            | $485     | 729g       |
 | Nunatak Bears Ears                                          | $355     | 807g       |
-| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $220     | 450g       |
-| Nemo Fillo Elite                                            |          | 53g        |
+| Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $165     | 450g       |
+| Nemo Fillo Elite                                            | $60      | 53g        |
 | Bearikade Weekender                                         |          | 880g       |
 | Firemaple Petrel Stove G3                                   |          | 178g       |
 | Firemaple Greenpeak camping stove burner                    |          | 85g        |
@@ -21,7 +21,7 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 | Flextail Zero Pump                                          |          | 96g        |
 | Naturehike quick dry Towel                                  |          | 30g        |
 | Durston Xmid 2                                              |          | 880g       |
-| Sea to Summit ultra fine mesh mosquito net                  |          | 23g        |
+| Sea to Summit ultra fine mesh mosquito net                  | $14      | 23g        |
 | BoglerCo Ultralight Trowel                                  |          | 14g        |
 | sunscreen stick - skin 1004                                 |          |            |
 | Leukotape                                                   |          |            |
@@ -41,17 +41,22 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 
 # Sleeping 
 ## Sleeping Bag - Nunatak Sastrugi 
+729g : 25.71oz
 
-| Temperature Rating | 22 F (-5 C) |
-| ------------------ | ----------- |
-| Length             | 70"         |
-| Shoulder Width     | 59"         |
-|                    |             |
-|                    |             |
+| Option             | Value          |
+| ------------------ | -------------- |
+| Temperature Rating | 22 F (-5 C)    |
+| Length             | 70"            |
+| Shoulder Width     | 59"            |
+| Footbox            | 40"            |
+| Overfill evenly    | True           |
+| Material           | 900 FP ExpeDry |
 
 Here I am using a zipless bag, in an effort to avoid 
 
-## Sleeping Pad - Thermarest 
+## Sleeping Pad - Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)
+
+Important part is that it's wide 
 
 ## Pillow - Nemo Fillo Ultralight 
 
