@@ -41,7 +41,8 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Ultralite Sack pouch (5"x9.5")                                 | $15      | 8-14g?     |
 | Summit Suds Powdered Soap Pika outdoors (1oz)                  | $7       | 40g        |
 | Gossamer Gear Thinlight Foam pad 1/8" folded                   | $32      | 94g        |
-| Heat It - insect bite healer h                                 |          |            |
+| Heat It - insect bite healer                                   |          |            |
+| MICROspikes Ghost Footwear Traction by Kahtoola (Medium)       | $110     | 192g       |
 |                                                                |          |            |
 | **Total**                                                      |          |            |
 
@@ -58,7 +59,9 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Overfill evenly    | True           |
 | Material           | 900 FP ExpeDry |
 
-Here I am using a zipless bag, because at the end of the day I just want to crawl into something and sleep. 
+Here I am using a zipless bag, because at the end of the day I just want to crawl into something and sleep and not have to really worry about connecting straps, and preventing drafts. 
+
+There is also the Timmermade Serpentes that has a false bottom for a sleeping bag which might be the better for that purpose? But I can just shift the down for my bag if I need to increase/decrease insulation, though the overfill makes that a bit harder :P
 
 ## Sleeping Pad - Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)
 
@@ -71,10 +74,11 @@ Pillows I feel like are mostly personal preference, but I like this one a lot si
 # Shelter 
 ## Tent - Durston X-Mid 2
 
+I went with the 2 person tent because I don't really see myself going on many solo trips, and it seemed to be more durable than the pro version. Plus with it's double wall design I don't need to worry about condensation. 
+
 #### Mods
+- Clothesline 
 
-
-# Transport 
 # Backpack - Nunatak Bears Ears 32L 
 
 Torso : 19" 
@@ -89,6 +93,8 @@ Waist : 32-34"
 
 
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
+
+These were on sale so I picked them up for cheaper, 
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
