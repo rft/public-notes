@@ -87,6 +87,7 @@ Waist : 32-34"
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
+880g : 31oz
 Pretty expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 I decided to go with this. Though I can't definitely say that a bearikade is better than the BV series as there's probably a lot more BVs than Bearikades.
 
 There's also the fact that it has a good L/g ratio 
