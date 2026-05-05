@@ -94,7 +94,7 @@ Waist : 32-34"
 
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
 
-These were on sale so I picked them up for cheaper, 
+These were on sale so I picked them up. I am kind of sussed out by the fact it's carbon fiber instead of aluminum, mainly because of the failure mode for aluminum is just a bent pole, vs carbon fiber being basically unusable afterwards. It's a concern because my tent requires this as shelter. 
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
