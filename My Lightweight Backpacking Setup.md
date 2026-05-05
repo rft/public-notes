@@ -19,9 +19,9 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 | Firemaple ASH titanium gas canister folding fuel stabilizer | $14      | 23g        |
 | Toaks Titanium Spoon                                        | $10      | 13g        |
 | Sawyer Mini Filter + Cnoc Bag                               | $65      | 167g       |
-| M!GO Mazama Water Bottle                                    |          | 132g       |
+| M!GO Mazama Water Bottle                                    | $19      | 132g       |
 | Flextail Zero Pump                                          | $53      | 96g        |
-| Naturehike quick dry Towel                                  |          | 30g        |
+| Naturehike quick dry Towel                                  | $4       | 30g        |
 | Durston Xmid 2                                              |          | 880g       |
 | Sea to Summit ultra fine mesh mosquito net                  | $14      | 23g        |
 | BoglerCo Ultralight Trowel                                  | $16      | 14g        |
@@ -62,10 +62,14 @@ Important part is that it's wide
 
 ## Pillow - Nemo Fillo Ultralight 
 
+
+# Shelter 
 ## Tent - Durston X-Mid 2
 
 #### Mods
 
+
+# Transport 
 # Backpack - Nunatak Bears Ears 32L 
 
 Torso : 19" 
@@ -103,6 +107,7 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 It also doubles as a chair
 
+## Stove - 
 ## Spoon - Toaks Titanium Spoon 
 
 # Small items 
