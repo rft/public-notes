@@ -1,8 +1,10 @@
-#incomplete 
+#incomplete #outdoors 
 
 My goal for backpacking is to have a durable, "minimal" set of gear, though I do try to balance weight where I can. So while not entirely ultralight, I think this is light enough. 
 
 I also try to aim for a mentally minimal setup, so I do like to have things that don't require much effort to set up. 
+
+As for costs, this stuff is obscenely expensive, I went more for the buy once cry once route, hopefully it remains that way.  
 # Summary 
 
 | **Item**                                                    | **Cost** | **Weight** |
@@ -11,20 +13,20 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 | Nunatak Bears Ears                                          | $355     | 807g       |
 | Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)     | $165     | 450g       |
 | Nemo Fillo Elite                                            | $60      | 53g        |
-| Bearikade Weekender                                         |          | 880g       |
-| Firemaple Petrel Stove G3                                   |          | 178g       |
-| Firemaple Greenpeak camping stove burner                    |          | 85g        |
-| Firemaple ASH titanium gas canister folding fuel stabilizer |          | 23g        |
-| Toaks Titanium Spoon                                        |          | 13g        |
-| Sawyer Mini Filter + Cnoc Bag                               |          |            |
+| Bearikade Weekender                                         | $375     | 880g       |
+| Firemaple Petrel Stove G3                                   | $29      | 178g       |
+| Firemaple Greenpeak camping stove burner                    | $15      | 85g        |
+| Firemaple ASH titanium gas canister folding fuel stabilizer | $14      | 23g        |
+| Toaks Titanium Spoon                                        | $10      | 13g        |
+| Sawyer Mini Filter + Cnoc Bag                               | $65      | 167g       |
 | M!GO Mazama Water Bottle                                    |          | 132g       |
-| Flextail Zero Pump                                          |          | 96g        |
+| Flextail Zero Pump                                          | $53      | 96g        |
 | Naturehike quick dry Towel                                  |          | 30g        |
 | Durston Xmid 2                                              |          | 880g       |
 | Sea to Summit ultra fine mesh mosquito net                  | $14      | 23g        |
-| BoglerCo Ultralight Trowel                                  |          | 14g        |
+| BoglerCo Ultralight Trowel                                  | $16      | 14g        |
 | sunscreen stick - skin 1004                                 |          |            |
-| Leukotape                                                   |          |            |
+| Leukotape                                                   | $15      | 111g       |
 | Datalogger                                                  |          |            |
 | Cascade Mountain Carbon Fiber Trekking Poles                |          | 159g       |
 | Zenbivy packliner                                           |          |            |
@@ -35,7 +37,7 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 | Ultralite Sack pouch (5"x9.5")                              |          | 8-14g?     |
 | Firebiner                                                   |          | 31g        |
 | Summit Suds Powdered Soap Pika outdoors (1oz)               |          | 40g        |
-|                                                             |          |            |
+| Gossamer Gear Thinlight Foam pad 1/8" folded                | $32      | 94g        |
 |                                                             |          |            |
 | **Total**                                                   |          |            |
 
@@ -52,7 +54,7 @@ I also try to aim for a mentally minimal setup, so I do like to have things that
 | Overfill evenly    | True           |
 | Material           | 900 FP ExpeDry |
 
-Here I am using a zipless bag, in an effort to avoid 
+Here I am using a zipless bag, because at the end of the day I just want to crawl into something and sleep. 
 
 ## Sleeping Pad - Thermarest NeoAir Xlite NXT Sleeping pad (Regular Wide)
 
@@ -68,6 +70,15 @@ Important part is that it's wide
 
 Torso : 19" 
 Waist : 32-34" 
+
+| Option      | Value |
+| ----------- | ----- |
+| Torso Size: |       |
+|             |       |
+|             |       |
+|             |       |
+
+
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
 # Cooking and Food 
 
