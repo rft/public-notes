@@ -66,21 +66,22 @@ Waist : 32-34"
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
-Pretty expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 
+Pretty expensive, but after looking at some pictures of https://imgur.com/a/ursack-bear-canister-failures-ZSwyHg4 I decided to go with this. Though I can't definitely say that a bearikade is better than the BV series as there's probably a lot more BVs than Bearikades.
 
-This can however is not IGBC certified, so it cannot be brought on certain trails. 
+There's also the fact that it has a good L/g ratio 
 
-Lightest bear can for it's size, made from carbon fiber
+Bear canister weight efficiencies compared:  
+![[Pasted image 20260504202817.png]]
+Source : [some comment I found on reddit ](https://old.reddit.com/r/Ultralight/comments/1myeyzh/how_many_bear_cans_and_which_do_you_own/nad0wse/)
 
-Bear cans compared 
-https://imgur.com/a/bear-canister-efficiency-JRXoDx8
+if I am using my own food, I use Wallaby Mylar bags to prevent scents from escaping. There is a seal on the bearikade, but just in case. 
+https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B09CCQCWPF?th=1
 
-I also use wallaby mylar bags to block out any scents, just so there's less of a reason to find the actual can. 
-
+*Note: This can is not IGBC certified, so it cannot be brought on certain trails. 
 
 #### Mods
 - Added reflective tape along circumference of container. Helps to spot in the morning when using headlamp. 
-- Washer keychain loop attached to bag. 
+- Washer keychain loop attached to a carabiner. 
 
 It also can double as a chair
 
