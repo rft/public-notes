@@ -79,7 +79,7 @@ I went with the 2 person tent because I don't really see myself going on many so
 - Use a PVC pipe tube end to help push stakes into the ground. 
 
 # Gear
-## Backpack - Nunatak Bears Ears 32L 
+## Backpack - Nunatak Bears Ears 32L Large Torso 
 
 Torso : 19" 
 Waist : 32-34" 
