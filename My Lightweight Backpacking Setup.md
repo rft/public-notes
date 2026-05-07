@@ -84,12 +84,12 @@ I went with the 2 person tent because I don't really see myself going on many so
 Torso : 19" 
 Waist : 32-34" 
 
-| Option      | Value |
-| ----------- | ----- |
-| Torso Size: |       |
-|             |       |
-|             |       |
-|             |       |
+| Option      | Value     |
+| ----------- | --------- |
+| Torso Size: | 19"-20.5" |
+| Waist:      | 32"-34"   |
+| Main Color: | Avocado   |
+|             |           |
 #### Mods
 - Luna 
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
