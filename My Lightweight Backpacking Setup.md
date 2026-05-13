@@ -131,6 +131,8 @@ Compatible with the Petrel Stove G3, and includes it's own piezo lighter, just t
 
 ## M!GO Mazama Water Bottle
 
+## Sawyer Mini Filter + Cnoc Bag
+
 # Small items 
 
 ## Trowel - BoglerCo Trowel 
@@ -141,7 +143,9 @@ Necessity
 There are two options here
 
 ## GUM Folding travel toothbrush
-## Bug net - Sea to Summit 
+## Sea to Summit ultra fine mesh mosquito net
+
+## Naturehike quick dry Towel
 
 # Consumables 
 
@@ -153,6 +157,22 @@ Was initially disappointed with how little you end up getting for the price, but
 - Leukotape - 
 - 
 
+## Toothpaste Tablets Huppy
+
+
+# Clothing 
+
+## Rain Jacket - 
+
+## Mid Layer - 
+
+## Base Layer -
+
+## Down jacket - 
+
+## Socks -
+
+## Shoes - 
 # Other
 
 ## Elitech RC-5+Digital PDF USB Temperature Data Logger
