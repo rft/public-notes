@@ -70,6 +70,7 @@ Important part is that it's wide
 
 Pillows I feel like are mostly personal preference, but I like this one a lot since it isn't that raised, but some might not like that. 
 
+## Gossamer Gear Thinlight Foam pad 1/8" folded
 # Shelter 
 ## Tent - Durston X-Mid 2
 
@@ -91,10 +92,12 @@ Waist : 32-34"
 | Main Color: | Avocado   |
 |             |           |
 #### Mods
-- Luna 
+- Luna Airmesh Back pad 
 ## Trekking Poles - Cascade Mountain Tech Ultralight Carbon Fiber Quick Lock Trekking Poles
 
 These were on sale so I picked them up. I am kind of sussed out by the fact it's carbon fiber instead of aluminum, mainly because of the failure mode for aluminum is just a bent pole, vs carbon fiber being basically unusable afterwards. It's a concern because my tent requires this as shelter. 
+
+## MICROspikes Ghost Footwear Traction by Kahtoola 
 # Cooking and Food 
 
 ## Bear can - Bearikade Weekender 
@@ -119,9 +122,14 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 It also doubles as a chair
 
-## Stove - Firemaple
+## Pot - Firemaple Petrel Stove G3
+
+## Stove - Firemaple Greenpeak camping stove burner
+Compatible with the Petrel Stove G3, and includes it's own piezo lighter, just to keep it easy.
 
 ## Spoon - Toaks Titanium Spoon 
+
+## M!GO Mazama Water Bottle
 
 # Small items 
 
@@ -132,6 +140,7 @@ Very lightweight Trowel, nice to use because of it's serrated edges and plastic 
 Necessity 
 There are two options here
 
+## GUM Folding travel toothbrush
 ## Bug net - Sea to Summit 
 
 # Consumables 
@@ -144,3 +153,14 @@ Was initially disappointed with how little you end up getting for the price, but
 - Leukotape - 
 - 
 
+# Other
+
+## Elitech RC-5+Digital PDF USB Temperature Data Logger
+
+## Firebiner
+
+## Flextail Zero Pump
+
+## Heat It - Insect Bite Healer
+
+## Merino MM knife
