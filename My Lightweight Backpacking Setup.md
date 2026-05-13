@@ -122,7 +122,8 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 It also doubles as a chair
 
-## Pot - Firemaple Petrel Stove G3
+## Pot - Firemaple Petrel  G3
+Holds 600ML of liquid, contains a heat exchanger, so it boils a little faster (lets  you take less fuel). I also have the neoprene sleeve for this as well.  
 
 ## Stove - Firemaple Greenpeak camping stove burner
 Compatible with the Petrel Stove G3, and includes it's own piezo lighter, just to keep it easy.
