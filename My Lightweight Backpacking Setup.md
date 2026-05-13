@@ -119,7 +119,8 @@ https://www.amazon.com/Wallaby-Absorbers-Thickness-Long-Term-Heat-Sealable/dp/B0
 
 It also doubles as a chair
 
-## Stove - 
+## Stove - Firemaple
+
 ## Spoon - Toaks Titanium Spoon 
 
 # Small items 
@@ -136,6 +137,8 @@ There are two options here
 # Consumables 
 
 ## Sunscreen Stick - Skin 1004 Madagascar Centella Hyalu Cica Silky-Fit Sun Stick
+
+Was initially disappointed with how little you end up getting for the price, but it actually kind of works well from a lightweight perspective (if you count getting slightly ripped off), but maybe that's just how it is? The actual sunscreen itself is actually really nice, and doesn't give that "oily" feeling that you might get with other sunscreens 
 
 ## First Aid 
 - Leukotape - 
