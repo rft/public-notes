@@ -170,7 +170,7 @@ Was initially disappointed with how little you end up getting for the price, but
 
 ## Down jacket - 
 
-## Socks -
+## Socks - Xowool Toe Sock
 
 ## Shoes - 
 # Other
@@ -184,3 +184,11 @@ Was initially disappointed with how little you end up getting for the price, but
 ## Heat It - Insect Bite Healer
 
 ## Merino MM knife
+## Ultralite Sack pouch (5"x9.5")
+Just a small pouch to organize my more scented toiletries meant for putting it in the bear can 
+
+## Zenbivy Ditty Dry Sack (3L)
+
+## Zenbivy packliner (Large)
+
+## Zenbivy Dry Sack (15L)
