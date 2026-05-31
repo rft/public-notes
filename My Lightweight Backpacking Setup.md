@@ -143,6 +143,8 @@ Very lightweight Trowel, nice to use because of it's serrated edges and plastic 
 Necessity 
 There are two options here
 
+## Shovel Sheath 
+
 ## GUM Folding travel toothbrush
 ## Sea to Summit ultra fine mesh mosquito net
 
