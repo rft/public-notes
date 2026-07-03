@@ -92,6 +92,10 @@ winget install --id=ch.LosslessCut  -e
 winget install --id=RevoUninstaller.RevoUninstaller  -e
 winget install --id=Rufus.Rufus  -e
 winget install -e --id Microsoft.Sysinternals.ProcessExplorer
+winget install -e --id RustDesk.RustDesk
+winget install --exact PrismLauncher.PrismLauncher
+winget install -e --id Netbird.Netbird
+
 ```
 ## App Store
 There are a few things I get from the Appstore, mainly for convenience 
