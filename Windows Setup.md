@@ -7,10 +7,24 @@ Windows is what I typically just use for gaming and some general stuff, only one
 
 Since I run [[NixOS]] I use https://github.com/nix-community/NixOS-WSL
 
-Following which I setup an SSH key and clone this [repo](https://github.com/rft/nix-config) (my nix config)
+`git` will likely be missing from a fresh NixOS install, you can add git temporarily with nix quite easily with `nix --extra-experimental-features 'nix-command flakes' shell nixpkgs#git`
+
+
+Following which I setup an SSH key
+
+```shell
+ssh-keygen -t ed25519
+```
+```shell
+eval "$(ssh-agent -s)"
+```
+1. ```shell
+    ssh-add ~/.ssh/id_ed25519
+    ```
+
+and clone this [repo](https://github.com/rft/nix-config) (my nix config)
 `git clone git@github.com:rft/nix-config.git`
 
-`git` will likely be missing from a fresh NixOS install, you can add git temporarily with nix quite easily with `nix shell nixpkgs#git`
 
 after it has been cloned I run `sudo nixos-rebuild switch --flake .#mistletoe`
 "mistletoe" being what I defined my WSL host as.
@@ -19,24 +33,15 @@ after it has been cloned I run `sudo nixos-rebuild switch --flake .#mistletoe`
 --- 
 # Windows Software
 
-## Software list 
+## Windows Exclusive
 - Powershell 
 - Everything 
 - windirstat
 - Executor 
-- Blackblaze
-- Prism Launcher 
-- wootility 
 - Air screen mirroring 
-- Bambu Studio
 - Naps2
-- Raindrops
 - Autohotkey
 - mpv.net 
-- lossless cut
-- Rustdusk 
-- Netbird 
-- Greenshot
 
 ### Powershell
 If you want to keep your sanity on windows use powershell, makes you feel more at home if you are used to bash, no longer will you type "ls" and be rejected by windows for not typing "dir" instead
