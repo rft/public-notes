@@ -119,6 +119,7 @@ There are a few things I get from the Appstore, mainly for convenience
 - Personalization > Lockscreen 
 - Uncheck "Get fun facts, tips, tricks and more on your lock screen"
 - Personalize your lock screen > picture 
+- Lock screen status > None
 
 ## Enable Hibernation 
 - Open the old control panel (Might need to search)
