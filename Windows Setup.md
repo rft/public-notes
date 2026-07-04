@@ -208,6 +208,9 @@ Invoke-Expression (& {
 })
 ```
 
-### Starting directory 
+### Starting directory - Terminal settings
 %USERPROFILE%
 
+# Nerd Fonts
+- https://www.nerdfonts.com/font-downloads
+- I usually use Fira Code 
