@@ -9,6 +9,15 @@ Since I run [[NixOS]] I use https://github.com/nix-community/NixOS-WSL
 
 `git` will likely be missing from a fresh NixOS install, you can add git temporarily with nix quite easily with `nix --extra-experimental-features 'nix-command flakes' shell nixpkgs#git`
 
+```
+git clone https://github.com/rft/nix-config.git
+```
+```
+
+```
+```
+sudo nixos-rebuild switch --flake .#mistletoe
+```
 
 Following which I setup an SSH key
 
