@@ -18,9 +18,9 @@ ssh-keygen -t ed25519
 ```shell
 eval "$(ssh-agent -s)"
 ```
-1. ```shell
-    ssh-add ~/.ssh/id_ed25519
-    ```
+```shell
+ssh-add ~/.ssh/id_ed25519
+```
 
 and clone this [repo](https://github.com/rft/nix-config) (my nix config)
 `git clone git@github.com:rft/nix-config.git`
