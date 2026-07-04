@@ -62,7 +62,6 @@ winget install --id=Obsidian.Obsidian  -e
 winget install --id=Valve.Steam  -e
 winget install --id=Discord.Discord  -e
 winget install --id=Spotify.Spotify  -e
-winget install --id=Flameshot.Flameshot  -e
 winget install --id=WerWolv.ImHex  -e
 winget install --id=calibre.calibre  -e
 winget install --id=SolveSpace.SolveSpace  -e
