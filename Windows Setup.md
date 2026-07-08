@@ -113,6 +113,7 @@ winget install -e --id Netbird.Netbird
 winget install -e --id KDE.Kdenlive
 winget install -e --id VivaldiTechnologies.Vivaldi
 winget install -e --id Greenshot.Greenshot
+winget install -e --id KDE.Krita
 ```
 ## App Store
 There are a few things I get from the Appstore, mainly for convenience 
