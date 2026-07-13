@@ -4,3 +4,8 @@ Back in highschool my friends and I started a tradition of having a secret santa
 
 # A little note on loops 
 
+
+
+# 2025 Secret Santa - Dating Sim 
+
+![[2025_secret_santa.mp4]]
