@@ -22,4 +22,4 @@ for example
 
 
 
-### A more formal definition for nerds 
+### A more formal definition
