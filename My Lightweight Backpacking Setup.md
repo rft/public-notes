@@ -9,7 +9,7 @@ As for costs, this stuff is obscenely expensive, I went more for the buy once cr
 
 | Item                                                           |       Cost |     Weight |
 | -------------------------------------------------------------- | ---------: | ---------: |
-| Bearikade Weekender                                            |       $375 |       880g |
+| Bearikade Weekender                                            |       $375 |       878g |
 | BoglerCo Ultralight Trowel                                     |        $16 |        14g |
 | Cascade Mountain Carbon Fiber Trekking Poles                   |        $49 |       159g |
 | Durston Xmid 2                                                 |       $319 |       880g |
@@ -107,7 +107,7 @@ Pretty expensive, but after looking at some pictures of https://imgur.com/a/ursa
 There's also the fact that it has a good L/g ratio 
 
 Bear canister weight efficiencies compared:  
-![[Pasted image 20260504202817.png]]
+![[Pasted image 20260504202817.jpg]]
 Source : [some comment I found on reddit ](https://old.reddit.com/r/Ultralight/comments/1myeyzh/how_many_bear_cans_and_which_do_you_own/nad0wse/)
 
 if I am using my own food, I use Wallaby Mylar bags to prevent scents from escaping. There is a seal on the bearikade, but just in case. 

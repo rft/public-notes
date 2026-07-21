@@ -5,7 +5,7 @@
 ![[2026-04-19_Kumiko_lamp_final_0.jpeg]]
 
 Party mode
-![[2026-04-19_Kumiko_lamp_video.mov]]
+![[2026-04-19_Kumiko_lamp_video.mp4]]
 
 
 # Background
@@ -46,7 +46,7 @@ Also the bulbs I have are E26, but the socket mentions its compatible with both 
 ## The Parts 
  *Ashanoa (the three pronged inserts) count is not accurate in photo 
  
-![[2026-04-19_Kumiko_lamp_parts_1.png]]
+![[2026-04-19_Kumiko_lamp_parts_1.jpg]]
 ## The Walls
  You can basically design any pattern you want. There’s this website https://www.kumikodesigner.com/ that will generate patterns for you, but in my case, I'm just going to use the one that's already in the 3d print, as well as using the same angled design. 
 
@@ -54,7 +54,7 @@ The amount of triangles that are in each wall are 35 (height) x 10 (length)
 
 If you want to do the same angled pattern, either start on the 15th triangle down or the 21st up, and then go down in a staircase subtracting 3 triangles down each time in a staircase until you place 3 (or 7 across). 
 
-![[2026-04-19_Kumiko_lamp_build_wall_2.png]]
+![[2026-04-19_Kumiko_lamp_build_wall_2.jpg]]
 
 You will need 672 Ashanoas in total (84 for every diagonal)
 
@@ -76,22 +76,22 @@ Once you have one wall panel complete, it's pretty easy to complete another one 
 
 ⚠️ Warning: Once you create two of an identical panel, you will need to create 2 more that have the diagonals on the opposite side. They will not be the same when rotated.
 
-![[Pasted image 20260419170752.png]]
+![[Pasted image 20260419170752.jpg]]
 
 ## The Frame
 The rest is pretty straightforward, so it will mostly just be pictures here.
 
 
-![[Pasted image 20260419165158.png]]
+![[Pasted image 20260419165158.jpg]]
 Put the socket in the large block, and make sure to screw on the overhang piece. Then connect four screws to the main frame from the top into the block. 
 
-![[Pasted image 20260419171111.png]]
+![[Pasted image 20260419171111.jpg]]
 
 Make sure when screwing in, that it becomes flush with the block. Might seem like it won't be able to, but eventually it will.
 
 Once that is complete, I flip the lamp over and attach the stand.
 
-![[Pasted image 20260419171408.png]]
+![[Pasted image 20260419171408.jpg]]
 
 There are four more screws to screw in here. same deal as before with making sure it is flush. I believe this is also where the four pegs go in as well, but I didn't want to do that here so I did not insert them. If only because I like the look of this better 
 
@@ -101,7 +101,7 @@ Once that is done, all that's really left is to put in the light bulb, the shade
 
 As a note , the shade is just fit in loosely and can be taken out and put back really easily.
 
-![[Pasted image 20260419171744.png]]
+![[Pasted image 20260419171744.jpg]]
 
 Screw in the four corners of the top (this might require a bit more work than the other ones), and tada! 
 
